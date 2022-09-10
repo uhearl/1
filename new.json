@@ -1,13 +1,5 @@
 {
 	"sites": [{
-		"key": "",
-		"name": "点击首页数据源",
-		"type": 3,
-		"api": "",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
 		"key": "csp_xpath_qiumi",
 		"name": "🏀球赛直播",
 		"type": 3,
