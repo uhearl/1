@@ -881,7 +881,7 @@
 		"filterable": 0
 	},  {
 		"key": "zp065",
-		"name": "花椒,",
+		"name": "花椒",
 		"type": 0,
 		"api": "https://apihjzy.com/api.php/provide/vod/at/xml/",
 		"searchable": 1,
