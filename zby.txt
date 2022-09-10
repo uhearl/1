@@ -724,7 +724,6 @@ CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 
-
 💽｜4K合集,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
@@ -1338,7 +1337,7 @@ Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
 KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
 OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
 
-🎎｜VIP 资源 ,#genre#
+🎎｜VIP 资源,#genre#
 Unknown_1,https://jvv009.microclassonline.com/20220907/ukr1503S/index.m3u8
 Unknown_2,https://jvv009.microclassonline.com/20220907/9eC3EmpE/index.m3u8
 Unknown_3,https://jvv009.microclassonline.com/20220907/QAOQE5Sh/index.m3u8
