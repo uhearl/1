@@ -830,7 +830,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGNvZGUubmV0L3UwMTQ0NTkxNTEvdHZzb3VyY2UvLS9yYXcvbWFzdGVyL3pieS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGNvZGUubmV0L3UwMTQ0NTkxNTEvdHZzb3VyY2UvLS9yYXcvbWFzdGVyL2xpdmUvemJ5LnR4dA=="]
 		}]
 	}],
 	"parses": [{
