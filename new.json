@@ -7,25 +7,25 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	},{
-	"key": "csp_xpath_qiumi",
-	"name": "🏀球赛直播",
-	"type": 3,
-	"api": "csp_XPathFilter",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
-}, {
-	"key": "csp_XYQBiu_17kan",
-	"name": "⚽17kan",
-	"type": 3,
-	"api": "csp_XYQBiu",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/17kan.json"
-} {
+	}, {
+		"key": "csp_xpath_qiumi",
+		"name": "🏀球赛直播",
+		"type": 3,
+		"api": "csp_XPathFilter",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
+	}, {
+		"key": "csp_XYQBiu_17kan",
+		"name": "⚽17kan",
+		"type": 3,
+		"api": "csp_XYQBiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/17kan.json"
+	}, {
 		"key": "csp_Kunyu77",
 		"name": "🌤酷云七七",
 		"type": 3,
@@ -58,7 +58,7 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	},   {
+	}, {
 		"key": "csp_dd5555",
 		"name": "🍅555 影视",
 		"api": "csp_Dy555",
@@ -91,7 +91,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	},  {
+	}, {
 		"key": "csp_Cokemv",
 		"name": "🎀Cokemv",
 		"type": 3,
@@ -123,7 +123,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	},  {
+	}, {
 		"key": "spider_IKan",
 		"name": "❤️爱看",
 		"type": 3,
@@ -233,7 +233,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
-	},  {
+	}, {
 		"key": "csp_biubiu_555电影",
 		"name": "🍅555 电影",
 		"type": 3,
@@ -369,7 +369,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "奶茶采集",
 		"name": "奶茶av",
 		"type": 0,
@@ -443,7 +443,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "*美少女资源",
 		"name": "*美少女资源",
 		"type": 0,
@@ -523,7 +523,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},   {
+	}, {
 		"key": "*一本道资源",
 		"name": "*一本道资源",
 		"type": 0,
@@ -547,7 +547,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "*青青草视频",
 		"name": "*青青草视频",
 		"type": 0,
@@ -587,7 +587,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "zp100",
 		"name": "乐播",
 		"type": 0,
@@ -660,7 +660,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "*大屌丝资源",
 		"name": "*大屌丝资源",
 		"type": 0,
@@ -701,7 +701,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "*葡萄资源",
 		"name": "*葡萄资源-慢",
 		"type": 1,
@@ -709,7 +709,7 @@
 		"searchable": 1,
 		"quickSearch": 0,
 		"filterable": 0
-	},   {
+	}, {
 		"key": "zp068",
 		"name": "环亚资源",
 		"type": 0,
@@ -717,7 +717,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "zp129",
 		"name": "鲨鱼资源",
 		"type": 0,
@@ -741,7 +741,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "zp143",
 		"name": "天堂福利",
 		"type": 0,
@@ -749,7 +749,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "*酷豆2",
 		"name": "*酷豆2",
 		"type": 1,
@@ -813,7 +813,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "zp065",
 		"name": "花椒",
 		"type": 0,
@@ -821,7 +821,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	},  {
+	}, {
 		"key": "北雁资源",
 		"name": "🦆北雁资源",
 		"type": 1,
