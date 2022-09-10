@@ -1,5 +1,14 @@
 {
 	"sites": [{
+		"key": "csp_biubiu_在线之家",
+		"name": "🏠在线之家",
+		"type": 3,
+		"api": "csp_XBiubiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+	},  {
 		"key": "csp_xpath_qiumi",
 		"name": "🏀球赛直播",
 		"type": 3,
@@ -84,16 +93,7 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	}, {
-		"key": "csp_biubiu_在线之家",
-		"name": "🏠在线之家",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
-	}, {
+	},  {
 		"key": "追剧喵",
 		"name": "🐱追剧喵",
 		"type": 3,
@@ -830,7 +830,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGNvZGUubmV0L3UwMTQ0NTkxNTEvdHZzb3VyY2UvLS9yYXcvbWFzdGVyL2xpdmUvemIudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGNvZGUubmV0L3UwMTQ0NTkxNTEvdHZzb3VyY2UvLS9ibG9iLzY1MjI3MzAzZGUwMzc1NjFlN2VkNmM3MmNmMzJlNzhiMDY5YzRmMjYvbGl2ZS96Yi50eHQ="]
 		}]
 	}],
 	"parses": [{
