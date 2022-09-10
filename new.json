@@ -85,6 +85,15 @@
 		"searchable": 1,
 		"ext": ""
 	}, {
+		"key": "csp_biubiu_在线之家",
+		"name": "🏠在线之家",
+		"type": 3,
+		"api": "csp_XBiubiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+	}, {
 		"key": "追剧喵",
 		"name": "🐱追剧喵",
 		"type": 3,
@@ -156,23 +165,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	}, {
-		"key": "csp_Zxzj",
-		"name": "🏠在线之家",
-		"type": 3,
-		"api": "csp_Zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "csp_Wmkk",
-		"name": "💯完美看看",
-		"api": "csp_Wmkk",
-		"type": 3,
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
+	},   {
 		"key": "360_spider",
 		"name": "🥎360影视",
 		"api": "csp_SP360",
@@ -225,15 +218,6 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-	}, {
-		"key": "csp_biubiu_在线之家",
-		"name": "🏠在线之家",
-		"type": 3,
-		"api": "csp_XBiubiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
 	}, {
 		"key": "csp_biubiu_555电影",
 		"name": "🍅555 电影",
