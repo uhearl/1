@@ -962,7 +962,7 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
-港澳台1,#genre#
+港澳test,#genre#
 中天新闻台,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
 民视新闻台,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
 东森新闻台,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
@@ -1007,20 +1007,15 @@ RHK32,p2p://fccs.word-tv.com:9906/62b98df6000aa94b0752aad18d7e36ce
 有线卫视电影台,p2p://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
 TVB星河高清频道,p2p://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
 澳门莲花,p2p://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
-凤凰中文,p2p://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
-凤凰资讯,p2p://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
-凤凰香港,p2p://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
 民视 HD,p2p://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
 民视 HD,p2p://fccs.word-tv.com:9906/62df5a780000887707dbedd0ce643763
 人间卫视  ,p2p://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
 台视HD,p2p://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87
-大爱,p2p://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
 中视HD,p2p://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
 霹雳台湾台  ,p2p://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
 华视HD,p2p://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 公视,p2p://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
 公视台语台,p2p://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
-好消息,p2p://fccs.word-tv.com:9906/62584be3000a4ec30f928e473488ad44
 原民台,p2p://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
 客家电视台 ,p2p://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 国家地理国际频道,p2p://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
