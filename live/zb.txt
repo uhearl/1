@@ -821,7 +821,7 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 西游记,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
 香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 
-测试频道,#genre#
+VVVVIP,#genre#
 彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
@@ -962,7 +962,7 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
-【小红帽直播】,#genre#
+小红帽直播,#genre#
 人类高质量玩家,http://cxc.xnpjifd.cn/live/cx_360131.flv
 夜夜淫歌,http://ufo.qxiaolei.top/live/cx_359060.flv
 淫多多,http://l2.iiun666.cn/live/cx_11694.flv
@@ -1012,7 +1012,7 @@ sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
 红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
 大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
 
-[港澳台test],#genre#
+港澳台test,#genre#
 中天新闻台,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
 民视新闻台,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
 东森新闻台,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
