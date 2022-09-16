@@ -176,7 +176,7 @@ SiTV电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000194&pl
 浙江卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000142&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 重庆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000152&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 
-频道,#genre#
+卫视频道,#genre#
 安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
 安徽卫视,http://111.59.189.40:8445/tsfile/live/0130_1.m3u8
 安徽卫视,http://140.207.241.3:8080/live/program/live/ahwshd/4000000/mnf.m3u8
