@@ -603,7 +603,6 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
 
 
-NewTv,#genre#
 NewTV,#genre#
 爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
 爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
