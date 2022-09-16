@@ -18,7 +18,6 @@ CCTV-4,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000182&playty
 CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-5,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000123&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV-5,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
 CCTV-5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV-5,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV-5+,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000131&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
@@ -75,14 +74,11 @@ CCTV-16,http://182.151.211.171:808/hls/18/index.m3u8
 CCTV-17,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000292&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225909/index.m3u8
-CHC动作,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
-CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 CNC中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
 咪咕4K测试,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-CCTV-8不同步,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000196&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 
 
 卫视频道,#genre#
@@ -113,7 +109,6 @@ CCTV-8不同步,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 东方卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
-东南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/2300000/mnf.m3u8
 东南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 广东公共,http://120.236.17.34:808/hls/251/index.m3u8
@@ -126,7 +121,6 @@ CCTV-8不同步,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 广西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225732/index.m3u8
 河北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
@@ -137,9 +131,7 @@ CCTV-8不同步,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
 黑龙江卫视,http://140.207.241.3:8080/live/program/live/hljwshd/4000000/mnf.m3u8
-黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-黑龙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江卫视,http://39.135.34.144:8080/000000001000/1000000001000009082/index.m3u8?test/PLTV/=02
 黑龙江卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000138&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 黑龙江卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
@@ -150,26 +142,15 @@ CCTV-8不同步,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
 湖北卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000144&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 湖南卫视,http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
-湖南卫视,http://120.236.17.34:808/hls/217/index.m3u8
-湖南卫视,http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000140&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-湖南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
-吉林卫视,http://111.40.196.36/PLTV/88888888/224/3221225589/index.m3u8
 吉林卫视,http://183.196.25.171:808/hls/47/index.m3u8
-吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-吉林卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225680/1653149097-1-1648951247.m3u8
-吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000286&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 吉林卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000293&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
-江苏卫视,http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8
 江苏卫视,http://140.207.241.3:8080/live/program/live/jswshd/4000000/mnf.m3u8
-江苏卫视,http://183.207.255.197/live/program/live/jswshd/2300000/mnf.m3u8
 江苏卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000141&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
 江苏卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
 江西卫视,http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8
@@ -343,25 +324,22 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 
 数字剧场,#genre#
 CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV电影展播,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000194&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000153&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 SiTV魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-SiTV法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-SiTV金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-乐游,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+SiTV全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 影院,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000195&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
@@ -381,7 +359,7 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 
 NewTV,#genre#
 爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
-爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+武博世界,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
 超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
 超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
