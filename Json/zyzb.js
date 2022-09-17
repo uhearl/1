@@ -6,7 +6,7 @@
     //"homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
-        "大头看球": "1"
+        "比赛列表": "1"
     },
 	
 	// 首页推荐视频的节点
