@@ -1,7 +1,7 @@
 {
 	"sites": [{
 		"key": "csp_biubiu_在线之家",
-		"name": "在线之家",
+		"name": "📺在线之家",
 		"type": 3,
 		"api": "csp_XBiubiu",
 		"searchable": 1,
