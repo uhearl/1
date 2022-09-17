@@ -1,7 +1,7 @@
 {
 	"sites": [{
 		"key": "csp_biubiu_在线之家",
-		"name": "🏠在线之家",
+		"name": "在线之家",
 		"type": 3,
 		"api": "csp_XBiubiu",
 		"searchable": 1,
@@ -18,15 +18,16 @@
 		"filterable": 1,
 		"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"
 	}, {
-		"key": "csp_XYQBiu_17kan",
-		"name": "⚽17kan",
-		"type": 3,
-		"api": "csp_XYQBiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/17kan.json"
-	}, {
+        "key":"csp_XYQBiu_17kan",
+        "name":"👀17kan〔XYQ〕",
+        "type":3,
+        "api":"csp_XYQBiu",
+        "searchable":0,
+        "quickSearch":0,
+        "filterable":0,
+        "ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/17kan.json",
+        "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/17kan.jar"
+    }, {
         "key": "csp_xpath_88kanqiu",
         "name": "球迷直播",
         "type": 3,
