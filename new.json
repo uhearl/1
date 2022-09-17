@@ -9,7 +9,7 @@
 		"filterable": 1,
 		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
 	},  {
-		"key": "csp_xpath_qiumi",
+		"key": "csp_xpath_qium",
 		"name": "🏀球赛直播",
 		"type": 3,
 		"api": "csp_XPathFilter",
@@ -27,7 +27,7 @@
 		"filterable": 0,
 		"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/17kan.json"
 	}, {
-	"key": "csp_xpath_88kanqiu",
+	"key": "",
 	"name": "🏀88看球",
 	"type": 3,
 	"api": "csp_XPathMac",
@@ -36,16 +36,8 @@
 	"filterable": 0,
 	"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
     }, {
-            "key": "csp_Kunyu77",
-            "name": "『五星资源 』",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-    }, {
             "key": "csp_xpath_qiumi",
-            "name": "『篮球直播』",
+            "name": "篮球直播",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -54,7 +46,7 @@
             "ext": "https://gitea.com/33/3/raw/branch/2/3/『篮球直播』.json"
     }, {
             "key": "csp_xpath_88kanqiu",
-            "name": "『球迷直播』",
+            "name": "球迷直播",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
