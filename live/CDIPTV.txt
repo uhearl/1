@@ -48,6 +48,8 @@ CGTN法语,rtp://239.93.42.50:5140
 重庆卫视,rtp://239.93.1.107:5140
 
 4K超清,#genre#
+CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CCTV-164K,rtp://239.93.42.54:5140
 爱上4K,rtp://239.93.0.97:5140
 绚影4K,rtp://239.93.42.33:5140
