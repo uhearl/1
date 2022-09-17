@@ -575,8 +575,6 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 
 
 虎牙轮播,#genre#
-高颜值偶像剧,http://bp-caster.bestv.com.cn:80/328/play.m3u8
-解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
 家有儿女,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
 好先生,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
 今晚80后,http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
