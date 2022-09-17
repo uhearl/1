@@ -36,6 +36,32 @@
 	"filterable": 0,
 	"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
     }, {
+            "key": "csp_Kunyu77",
+            "name": "『五星资源 』",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, {
+            "key": "csp_xpath_qiumi",
+            "name": "『篮球直播』",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/33/3/raw/branch/2/3/『篮球直播』.json"
+        },{
+            "key": "csp_xpath_88kanqiu",
+            "name": "『球迷直播』",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/33/3/raw/branch/2/3/『球迷直播』.json"
+        }, {
 		"key": "csp_Kunyu77",
 		"name": "🌤酷云七七",
 		"type": 3,
