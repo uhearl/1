@@ -17,7 +17,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/u014459151/tvsource/-/raw/master/Json/jrkan.js"
-	}, {"key":"17kan","name":"看球！","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/u014459151/tvsource/-/raw/master/Json/17kanqiu.json"},{"key":"csp_XYQBiu_310直播","name":"看球！","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/u014459151/tvsource/-/raw/master/Json/310kanqiu.json"}, {
+	}, {"key":"17kan","name":"看球备选1","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/u014459151/tvsource/-/raw/master/Json/17kanqiu.json"},{"key":"csp_XYQBiu_310直播","name":"看球备选2","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/u014459151/tvsource/-/raw/master/Json/310kanqiu.json"}, {
 		"key": "csp_Kunyu77",
 		"name": "🌤酷云七七",
 		"type": 3,
