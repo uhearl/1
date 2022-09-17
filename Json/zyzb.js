@@ -6,7 +6,7 @@
     //"homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
-        "Yuhe": "1"
+        "大头看球": "1"
     },
 	
 	// 首页推荐视频的节点
