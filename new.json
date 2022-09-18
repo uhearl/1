@@ -344,7 +344,7 @@
 		"filterable": 0
 	},  {
 		"key": "*日本AV在线",
-		"name": "日本AV在线",
+		"name": "日本在线",
 		"type": 0,
 		"api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
 		"searchable": 1,
@@ -392,7 +392,7 @@
 		"filterable": 0
 	}, {
 		"key": "*AV集中淫",
-		"name": "AV集中淫",
+		"name": "集中影",
 		"type": 0,
 		"api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml",
 		"searchable": 1,
@@ -424,7 +424,7 @@
 		"filterable": 0
 	}, {
 		"key": "523采集",
-		"name": "523av",
+		"name": "523资源",
 		"type": 0,
 		"api": "https://caiji.523zyw.com/inc/api.php",
 		"playUrl": "https://api.523zyw.com/?url=",
@@ -433,7 +433,7 @@
 		"filterable": 0
 	}, {
 		"key": "*我要啪啪",
-		"name": "我要啪啪",
+		"name": "51资源",
 		"type": 0,
 		"api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
 		"searchable": 1,
@@ -497,7 +497,7 @@
 		"filterable": 0
 	}, {
 		"key": "*酷豆2",
-		"name": "*酷豆2",
+		"name": "酷豆2",
 		"type": 1,
 		"api": "https://api.kdapi.info/api.php/provide/vod/",
 		"searchable": 1,
