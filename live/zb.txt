@@ -597,7 +597,9 @@ NewTV,#genre#
 炊事班的故事,http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
 民兵葛二蛋,http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+哈利波特,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 水浒传,http://maomao.kandiantv.cn/douyu1.php?id=8986636
+士兵突击,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 鬼吹灯1,http://maomao.kandiantv.cn/douyu1.php?id=9292503
 鬼吹灯2,http://maomao.kandiantv.cn/douyu1.php?id=7701735
 冰与火之歌,http://maomao.kandiantv.cn/douyu1.php?id=8945323
@@ -620,7 +622,6 @@ NewTV,#genre#
 漫威影片,http://maomao.kandiantv.cn/douyu1.php?id=6140589
 喜剧经典,http://maomao.kandiantv.cn/douyu1.php?id=9650887
 贝爷影厅2,http://maomao.kandiantv.cn/douyu1.php?id=36337
-哈利波特,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 冰冰经典电影,http://maomao.kandiantv.cn/douyu1.php?id=74374
 星星影院,http://maomao.kandiantv.cn/douyu1.php?id=315131
 科幻系列,http://maomao.kandiantv.cn/douyu1.php?id=8107217
@@ -628,16 +629,9 @@ NewTV,#genre#
 喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=9292492
 高帧影片,http://maomao.kandiantv.cn/douyu1.php?id=6763930
 平安夜快乐,http://maomao.kandiantv.cn/douyu1.php?id=6863367
-果子哥哥,http://maomao.kandiantv.cn/douyu1.php?id=9372950
-片荒的日子,http://maomao.kandiantv.cn/douyu1.php?id=4258555
-大胡子魏,http://maomao.kandiantv.cn/douyu1.php?id=8792763
-童年回忆,http://maomao.kandiantv.cn/douyu1.php?id=8915074
-悬疑犯罪,http://maomao.kandiantv.cn/douyu1.php?id=9171887
 篮球纪录片,http://maomao.kandiantv.cn/douyu1.php?id=8434598
 热血动漫,http://maomao.kandiantv.cn/douyu1.php?id=206858
 高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
-王者峡谷~,http://maomao.kandiantv.cn/douyu1.php?id=9360149
-变成了一颗苹果~,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 邵氏影院,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影片,http://epg.112114.xyz/douyu/85894
