@@ -625,6 +625,13 @@ SiTV全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147
 风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
+纪实人文,http://113.64.147.18:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.19:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.20:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.36:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.5:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.66:808/hls/56/index.m3u8
+纪实人文,http://113.64.147.80:808/hls/56/index.m3u8
 
 
 体育合集,#genre#
@@ -649,6 +656,11 @@ NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
 NewTV精品体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.m3u8
+深圳体育,http://113.64.147.19:808/hls/70/index.m3u8
+深圳体育,http://113.64.147.20:808/hls/70/index.m3u8
+深圳体育,http://113.64.147.36:808/hls/70/index.m3u8
+深圳体育,http://113.64.147.66:808/hls/70/index.m3u8
+深圳体育,http://113.64.147.80:808/hls/70/index.m3u8
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 广东体育,http://113.64.147.100:808/hls/18/index.m3u8
 广东体育,http://113.64.147.18:808/hls/1/index.m3u8
