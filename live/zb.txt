@@ -431,7 +431,7 @@ CCTV-16 4K,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3
 斗鱼4k影院,http://epg.112114.xyz/douyu/9249162
 咪咕4K测试,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
-数字频道,genre#
+数字频道,#genre#
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
