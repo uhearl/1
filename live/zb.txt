@@ -626,6 +626,7 @@ SiTV全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147
 央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
 
+
 体育合集,#genre#
 风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 魅力足球,http://113.64.147.100:808/hls/50/index.m3u8
@@ -658,18 +659,23 @@ NewTV精品体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.
 广东体育,http://113.64.147.66:808/hls/1/index.m3u8
 广东体育,http://113.64.147.80:808/hls/1/index.m3u8
 广东体育,http://113.64.147.83:808/hls/1/index.m3u8
-1场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
-2场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
-3场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
-4场,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
-第一赛场,http://txtest-xp2p.p2p.huya.com/1099531739778-1099531739778-86380390847086592-2199063603012-10057-A-0-1.xs
-足球,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-足球1,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-足球2,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
-足球3,http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-足球5,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-足球7,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+咪咕直播1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233550/index.m3u8
+咪咕直播2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233547/index.m3u8
+咪咕直播3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233608/index.m3u8
+咪咕直播4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233868/index.m3u8
+咪咕直播5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233508/index.m3u8
+咪咕直播6,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8
+咪咕直播7,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
+咪咕直播8,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233527/index.m3u8
+咪咕直播9,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233541/index.m3u8
+咪咕直播10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233602/index.m3u8
+咪咕直播11,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233605/index.m3u8
+咪咕直播12,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233857/index.m3u8
+咪咕直播13,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233860/index.m3u8
+咪咕直播14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233515/index.m3u8
+咪咕直播15,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233524/index.m3u8
+咪咕直播16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233544/index.m3u8
+
 
 
 
@@ -861,18 +867,18 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 香港黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
 
 咪咕轮播,#genre#
-咪咕-新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-咪咕-高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-咪咕-高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-咪咕-怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-咪咕-欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-咪咕-黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-咪咕-每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-咪咕-咪咕暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-咪咕-云上电影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-咪咕-热剧联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
-咪咕-武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-咪咕-喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
+新片放映厅,http://live.aikan.miguvideo.com/PLTV/88888888/224/619495952/index.m3u8
+高分影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/627198191/index.m3u8
+高清大片,http://live.aikan.miguvideo.com/PLTV/88888888/224/629943678/index.m3u8
+怀旧老片,http://live.aikan.miguvideo.com/PLTV/88888888/224/621640582/index.m3u8
+欢笑剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/623674859/index.m3u8
+黄金剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/625155140/index.m3u8
+每日科幻电影,http://live.aikan.miguvideo.com/PLTV/88888888/224/625204865/index.m3u8
+咪咕暑期剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/627198692/index.m3u8
+云上电影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/625703337/index.m3u8
+热剧联播,http://live.aikan.miguvideo.com/PLTV/88888888/224/629943613/index.m3u8
+武侠剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/627198822/index.m3u8
+喜剧联盟,http://live.aikan.miguvideo.com/PLTV/88888888/224/637444830/index.m3u8
 
 
 Adult测试,#genre#
