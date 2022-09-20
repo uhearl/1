@@ -4,6 +4,7 @@ CCTV-1,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000120&playty
 CCTV-1,http://113.64.147.100:808/hls/132/index.m3u8
 CCTV-1,http://113.64.147.83:808/hls/1/index.m3u8
 CCTV-2,http://113.64.147.101:808/hls/2/index.m3u8
+CCTV-2,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000121&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-2,http://171.108.239.13:8181/tsfile/live/1028_1.m3u8
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
@@ -63,6 +64,7 @@ CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 CCTV-9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV-9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
 CCTV-9,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000127&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CCTV-10,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000128&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-10,http://113.64.147.18:808/hls/10/index.m3u8
 CCTV-10,http://113.64.147.66:808/hls/10/index.m3u8
 CCTV-10,http://171.108.239.13:8181/tsfile/live/1036_1.m3u8
