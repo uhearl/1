@@ -10,7 +10,7 @@
 		"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
 	},  {
 		"key": "csp_xpath_qiumi",
-		"name": "大头喊你看球！",
+		"name": "大头看球强力推荐",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
