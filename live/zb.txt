@@ -17,6 +17,7 @@ CCTV-15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-16,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000297&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-17,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000292&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CCTV-5+,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000131&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+
 CCTV-1,http://117.148.129.6/PLTV/88888888/224/3221230242/index.m3u8
 CCTV-1,http://117.148.129.6/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-1,http://117.148.129.6/PLTV/88888888/224/3221231471/index.m3u8
@@ -30,10 +31,12 @@ CCTV-8,http://117.148.129.6/PLTV/88888888/224/3221231694/index.m3u8
 CCTV-11,http://117.148.129.6/PLTV/88888888/224/3221231711/index.m3u8
 CCTV-13,http://117.148.129.6/PLTV/88888888/224/3221231636/index.m3u8
 CCTV-15,http://117.148.129.6/PLTV/88888888/224/3221231693/index.m3u8
+CCTV-16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-4 美洲,http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8
 CCTV-4 欧洲,http://117.148.129.6/PLTV/88888888/224/3221231615/index.m3u8
 CCTV-5+,http://117.148.129.6/PLTV/88888888/224/3221231459/index.m3u8
 CCTV-4K,http://117.148.129.6/PLTV/88888888/224/3221233400/index.m3u8
+
 CCTV-1,http://113.64.147.56:808/hls/132/index.m3u8
 CCTV-1,http://113.64.147.100:808/hls/132/index.m3u8
 CCTV-1,http://113.64.147.83:808/hls/1/index.m3u8
@@ -171,9 +174,10 @@ CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225909/index.m3u8
 深圳卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000137&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 四川卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000154&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 天津卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000134&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-西藏卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000053&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-新疆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000287&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+西藏卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000053&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3新疆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000287&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+
 北京卫视,http://117.148.129.6/PLTV/88888888/224/3221231732/index.m3u8
+浙江卫视,http://117.148.129.6/PLTV/88888888/224/3221229352/index.m3u8
 广东卫视,http://117.148.129.6/PLTV/88888888/224/3221231891/index.m3u8
 湖北卫视,http://117.148.129.6/PLTV/88888888/224/3221233844/index.m3u8
 湖南卫视,http://117.148.129.6/PLTV/88888888/224/3221230206/index.m3u8
@@ -388,11 +392,6 @@ MOMO综合,rtmp://59.124.75.147/sat/tv761
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV-16 4K,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 爱上4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.59:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.60:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 斗鱼4k影院,http://epg.112114.xyz/douyu/9249162
@@ -637,6 +636,8 @@ NewTV,#genre#
 
 
 影视轮播,#genre#
+
+
 家有儿女,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
 好先生,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
 今晚80后,http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
@@ -648,6 +649,7 @@ NewTV,#genre#
 爱情公寓,http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
 军旅剧场,http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
 周润发系列,http://117.148.129.6/PLTV/88888888/224/3221231709/index.m3u8
+老炮电影,http://117.148.129.6/PLTV/88888888/224/3221231645/index.m3u8
 葛优系列,http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
 刘德华系列,http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
 刘亦菲系列,http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
@@ -659,6 +661,10 @@ NewTV,#genre#
 咪咕剧场3,http://117.148.129.6/PLTV/88888888/224/3221232143/index.m3u8
 咪咕剧场4,http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
 咪咕剧场5,http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
+咪咕剧场6,http://117.148.129.6/PLTV/88888888/224/3221231624/index.m3u8
+咪咕剧场7,http://117.148.129.6/PLTV/88888888/224/3221232260/index.m3u8
+咪咕剧场8,http://117.148.129.6/PLTV/88888888/224/3221232426/index.m3u8
+咪咕剧场9,http://117.148.129.6/PLTV/88888888/224/3221232483/index.m3u8
 高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
 士兵突击,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
