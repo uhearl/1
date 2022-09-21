@@ -291,6 +291,7 @@ TVBS欢乐,rtmp://59.124.75.147:1935/sat/tv421
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 纬来精采,rtmp://59.124.75.150/sat/md031
 纬来精采,rtmp://59.124.75.147/sat/md031
