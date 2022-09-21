@@ -302,17 +302,23 @@ SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+第一剧场,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000080&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+第一剧场,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000080&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 风云剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+风云剧场,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000079&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 怀旧剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+怀旧剧场,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000077&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 世界地理,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+世界地理,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000081&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 风云音乐,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+风云音乐,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000096&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+兵器科技,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000076&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+风云足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000078&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
-央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
 
 影视轮播,#genre#
