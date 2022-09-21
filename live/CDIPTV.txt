@@ -283,23 +283,28 @@ CCTV-164K,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u
 
 
 数字频道,#genre#
-CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC家庭影院,http://117.148.129.6/PLTV/88888888/224/3221231799/index.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000153&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+SiTV极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000106&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000102&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 SiTV魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+SITV,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000194&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+乐游,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+DOXTV,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000114&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 第一剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 第一剧场,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000080&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
