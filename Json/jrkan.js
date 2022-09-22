@@ -1,7 +1,7 @@
 {
     "author": "Yuhe",
     "ua": "",
-    "homeUrl": "http://www.jrkan365.com/",
+    "homeUrl": "http://jrkan365.com/",
     //"homeUrl": "http://jrsbxj.com/",
     //"homeUrl": "http://jrsyyds.com/",
     
