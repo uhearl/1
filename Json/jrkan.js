@@ -6,7 +6,7 @@
     //"homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
-        "比赛列表": "1"
+        "赛事直播": "1"
     },
 	
 	// 首页推荐视频的节点
@@ -25,7 +25,7 @@
     "homeVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text(),'')",
 	"home": "Yuhe",
 	// 分类页地址 {cateId} 分类id {catePg} 当前页
-    "cateUrl": "http://www.jrkan365.com/",
+    "cateUrl": "http://jrkan365.com/",
 	  // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//ul[@data-stype='zqlq']",
     //"cateVodName": "/li[@class='lab_events']/span/text()",
@@ -51,7 +51,7 @@
     //演员
     "dtActor": "/li[1]/span/text()",
     // 导演
-    "dtDirector": "concat('xxx -','Never underestimate the heart of a champion! ')",
+    "dtDirector": "concat('xxx -','大头邀你一起看球 ')",
     "dtDirectorR": "",
     // 视频简介
     "dtDesc": "concat(/li[3]/strong/text(),'-',/li[5]/strong/text())",
