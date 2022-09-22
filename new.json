@@ -10,7 +10,7 @@
 		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/zxzj.json"
 	},  {
 		"key": "csp_xpath_qiumi",
-		"name": "大头看球强力推荐",
+		"name": "Jrs直播（大头推荐）",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -509,7 +509,7 @@
 		"quickSearch": 1,
 		"filterable": 0
 	} ],
-	"spider": "https://gitcode.net/bh/tv/-/raw/main/999.png;md5;E787FC9C9771E21FDA57374EF3B64A65",
+	"spider": "https://gitcode.net/bh/tv/-/raw/master/999.png;md5;E787FC9C9771E21FDA57374EF3B64A65",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
