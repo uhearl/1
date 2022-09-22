@@ -755,14 +755,48 @@ NewTV,#genre#
 斗鱼电影137,http://epg.112114.xyz/douyu/1274132
 
 国外测试,#genre#
+BBC Earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN Documentary,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 UNWebTV.us,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 NHK CHINA,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 原住民频道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+AT-X (720p),https://sub2.neetball.net/live/neet.m3u8
+QVC Japan (720p),https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Fuji TV (540p),https://fujitv2.mov3.co/hls/fujitv.m3u8
+New Japan Pro Wrestling World (540p),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+NHK General TV (540p) ,https://nhk2.mov3.co/hls/nhk.m3u8
+TBS (540p),https://tbs2.mov3.co/hls/tbs.m3u8
+NTV News24 (480p),https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+BBS Buddhist Broadcasting (1080p) [Not 24/7],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+GugakTV 국악방송 (1080p),http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+Gugbang TV (1080p) [Not 24/7],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7],https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+MBC Yeosu (여수 MBC) (1080p) [Not 24/7],https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+SBS (#1) (1080p) [Not 24/7],http://183.99.22.189:9981/stream/channelid/1124346476
+SBS KBC (KBC 광주방송) (1080p) [Not 24/7],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+SBS KNN (KNN 부산경남대표방송) (1080p) [Not 24/7],http://220.95.92.160:9981/stream/channelid/1445999617
+SPOTV (1080p),https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+KCTV 광주 CH05 (720p) [Not 24/7],http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+Korean Election TV,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index.m3u8
+MBC Chungbuk (MBC 충북) (720p) [Not 24/7],http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC Daejeon (대전 MBC) (720p) [Not 24/7],https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MTN (720p) [Not 24/7],http://183.110.27.87/mtnlive/720/playlist.m3u8
+NEC ETV 한국선거방송 (720p),http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+SBS TJB (1080p) [Not 24/7],http://1.245.74.5:1935/live/tv/.m3u8
+목포 MBC Mokpo (720p),http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBS CJB (CJB청주방송) (540p) [Not 24/7],http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+GCN24 Korean (480p) [Not 24/7],http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+SBS JTV (JTV전주방송) (406p) [Not 24/7],https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+Arirang (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Adult测试,#genre#
 彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
