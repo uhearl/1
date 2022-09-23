@@ -856,35 +856,6 @@ GCN24 Korean (480p) [Not 24/7],http://liveko24-manminglobal3.ktcdn.co.kr/liveko2
 SBS JTV (JTV전주방송) (406p) [Not 24/7],https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 Arirang (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Adult测试,#genre#
-彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
-K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-看电视,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
-幻灯片电影,mitv://4506/6260e2b000004933172c99712568d815
-幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
-惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-热,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-热,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-快乐,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-快乐,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
@@ -892,9 +863,6 @@ PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
 PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
 PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
-ТНТHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-СТСHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
-СТСLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
