@@ -755,6 +755,7 @@ NewTV,#genre#
 斗鱼电影137,http://epg.112114.xyz/douyu/1274132
 
 国外测试,#genre#
+
 BBC Earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -762,6 +763,36 @@ CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN Documentary,http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 UNWebTV.us,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 NHK CHINA,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+AutoAllstars[1024x576],http://78.129.253.189/tsstreamer/AutoAllstarsLDAI_SD.ts
+BilliardTV[1024x576],http://88.150.241.11/tsstreamer/BilliardTVLDAI_SD.ts
+Bloomberg[1024x576],http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
+BollywoodClassic[1024x576],http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+BollywoodHD[1024x576],http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+BollywoodHD[1024x576],http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
+CMusic[1024x576],http://95.154.194.78/tsstreamer/CMusicLDAI_SD.ts
+CurrentTime[640x360],http://81.94.196.204/tsstreamer/CurrentTime_SD.ts
+DuckTV[1024x576],http://78.129.150.52/tsstreamer/DuckTVLDAI_SD.ts
+Euro Indie Music Chart TV (360p)[1920x1080],http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+EuronewsEng[1024x576],http://95.154.197.48/tsstreamer/EuronewsEngLDAI_SD.ts
+EuronewsEng[1024x576],http://109.169.55.98/tsstreamer/EuronewsEngLDAI_SD.ts
+EuronewsRus[1024x576],http://95.154.197.48/tsstreamer/EuronewsRusLDAI_SD.ts
+EuronewsRus[1024x576],http://109.169.55.98/tsstreamer/EuronewsRusLDAI_SD.ts
+ExtremePlus[1024x576],http://109.169.55.98/tsstreamer/ExtremePlusLDAI_SD.ts
+Fashion[1024x576],http://95.154.230.50/tsstreamer/FashionLDAI_SD.ts
+Hellenic[1024x576],http://188.227.164.31/tsstreamer/Hellenic_SD.ts
+Kalemeh TV (576p) [Not 24/7],http://51.210.199.37/hls/stream.m3u8
+Karaoke[1024x576],http://82.145.63.157/tsstreamer/KaraokeLDAI_SD.ts
+LawCrime[1024x576],http://109.169.55.30/tsstreamer/LawCrimeLDAI_SD.ts
+Naturescape[1024x576],http://109.169.55.30/tsstreamer/NaturescapeLDAI_SD.ts
+NollyAfrica[1024x576],http://82.145.63.157/tsstreamer/NollyAfricaLDAI_SD.ts
+Noor TV (480p) [Not 24/7],http://45.76.186.114:8080/hls/noortv.m3u8
+NTD[1024x576],http://5.152.223.78/tsstreamer/NTD_SD.ts
+NTD[1024x576],http://78.129.193.20/tsstreamer/NTD_SD.ts
+TraceBrazuka[1024x576],http://78.129.237.68/tsstreamer/TraceBrazukaLDAI_SD.ts
+TVP[1024x576],http://78.129.193.20/tsstreamer/TVP_SD.ts
+TwistedMirror[1024x576],http://95.154.194.78/tsstreamer/TwistedMirrorLDAI_SD.ts
+Unreel[1024x576],http://78.129.253.189/tsstreamer/UnreelLDAI_SD.ts
+VoxAfrica[1024x576],http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 原住民频道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
