@@ -10,7 +10,7 @@
 		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/zxzj.json"
 	},  {
 		"key": "csp_xpath_qiumi",
-		"name": "Jrs直播（大头推荐）",
+		"name": "JrKan（看球推荐）",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
