@@ -356,11 +356,10 @@ MOMO综合,rtmp://59.124.75.147/sat/tv761
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲财经,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-东森电影台,http://113.64.73.37:808/hls/58/index.m3u8
-东森电影台,http://113.64.73.116:808/hls/58/index.m3u8
-东森电影台,http://113.64.73.136:808/hls/58/index.m3u8
-东森电影台,http://113.64.147.56:808/hls/59/index.m3u8
-东森电影台,http://113.64.147.83:808/hls/59/index.m3u8
+东森电影台,http://113.64.147.37:808/hls/58/index.m3u8
+东森电影台,http://113.64.147.161:808/hls/58/index.m3u8
+东森电影台,http://113.64.147.228:808/hls/58/index.m3u8
+东森电影台,http://113.64.147.232:808/hls/59/index.m3u8
 东森洋片台,http://113.64.147.37:808/hls/59/index.m3u8
 东森洋片台,http://113.64.147.161:808/hls/59/index.m3u8
 东森洋片台,http://113.64.147.228:808/hls/59/index.m3u8
