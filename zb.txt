@@ -270,14 +270,14 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 
-#甘肃源
-#甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
-#甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
-#甘肃都市,http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
-#甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
-甘肃新闻综合,http://39.134.32.102:6610/270000001111/1110000328/index.m3u8?IASHttpSessionId=OTT
-#甘肃经济,http://39.134.32.102:6610/270000001111/1110000326/index.m3u8?IASHttpSessionId=OTT
-#甘肃公共应急,http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
+#甘肃源#
+#甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT#
+#甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT#
+#甘肃都市,http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT#
+#甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT#
+甘肃新闻综合,http://39.134.32.102:6610/270000001111/1110000328/index.m3u8?IASHttpSessionId=OTT#
+#甘肃经济,http://39.134.32.102:6610/270000001111/1110000326/index.m3u8?IASHttpSessionId=OTT#
+#甘肃公共应急,http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT#
 
 
 港台频道,#genre#
