@@ -134,17 +134,19 @@ MOMO综合,rtmp://59.124.75.147/sat/tv761
 东森超视,rtmp://59.124.75.150/sat/tv331
 东森超视,rtmp://59.124.75.147:1935/sat/tv331
 东森超视,rtmp://59.124.75.150:1935/sat/tv331
+东森卫视,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森电影台,http://113.64.73.37:808/hls/58/index.m3u8
-东森电影台,http://113.64.73.116:808/hls/58/index.m3u8
-东森电影台,http://113.64.73.136:808/hls/58/index.m3u8
+东森美洲财经,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+东森电影台,http://113.64.147.37:808/hls/58/index.m3u8
+东森电影台,http://113.64.147.116:808/hls/58/index.m3u8
+东森电影台,http://113.64.147.136:808/hls/58/index.m3u8
 东森电影台,http://113.64.147.56:808/hls/59/index.m3u8
 东森电影台,http://113.64.147.83:808/hls/59/index.m3u8
 东森洋片台,http://113.64.147.37:808/hls/59/index.m3u8
-东森洋片台,http://113.64.116.161:808/hls/59/index.m3u8
-东森洋片台,http://113.64.116.228:808/hls/59/index.m3u8
-东森洋片台,http://113.64.116.232:808/hls/59/index.m3u8
+东森洋片台,http://113.64.147.161:808/hls/59/index.m3u8
+东森洋片台,http://113.64.147.228:808/hls/59/index.m3u8
+东森洋片台,http://113.64.147.232:808/hls/59/index.m3u8
 LSTime电影台,http://113.64.147.37:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.161:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.228:808/hls/38/index.m3u8
@@ -175,7 +177,6 @@ CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?C
 津津悦读4K,rtp://239.93.1.197:5140
 中录动漫4K,rtp://239.93.1.188:5140
 
-体育频道,#genre#
 体育频道,#genre#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
