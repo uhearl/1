@@ -295,12 +295,12 @@ CCTV17,http://39.134.115.221:8080/PLTV/88888910/224/3221225909/index.m3u8
 
 
 港台频道,#genre#
-凤凰中文,http://113.64.147.87:808/hls/32/index.m3u8
-凤凰中文,http://113.64.147.136:808/hls/32/index.m3u8
+凤凰中文,http://113.64.147.83:808/hls/32/index.m3u8
+凤凰中文,http://113.64.147.74:808/hls/32/index.m3u8
 凤凰中文,http://113.64.147.116:808/hls/32/index.m3u8
 凤凰中文,http://113.64.147.73:808/hls/32/index.m3u8
-凤凰资讯,http://113.64.147.16:808/hls/36/index.m3u8
-凤凰资讯,http://113.64.147.31:808/hls/36/index.m3u8
+凤凰资讯,http://113.64.147.83:808/hls/36/index.m3u8
+凤凰资讯,http://113.64.147.100:808/hls/36/index.m3u8
 凤凰资讯,http://113.64.147.57:808/hls/36/index.m3u8
 凤凰资讯,http://113.64.147.74:808/hls/36/index.m3u8
 凤凰资讯,http://113.64.147.84:808/hls/36/index.m3u8
@@ -319,8 +319,8 @@ CCTV17,http://39.134.115.221:8080/PLTV/88888910/224/3221225909/index.m3u8
 凤凰香港,http://113.64.147.149:808/hls/38/index.m3u8
 凤凰香港,http://113.64.147.154:808/hls/38/index.m3u8
 凤凰香港,http://113.64.147.156:808/hls/38/index.m3u8
-翡翠台,http://113.64.147.18:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.20:808/hls/67/index.m3u8
+翡翠台,http://113.64.147.83:808/hls/67/index.m3u8
+翡翠台,http://113.64.147.74:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.31:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.66:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.101:808/hls/67/index.m3u8
@@ -363,9 +363,9 @@ TVBS欢乐台,rtmp://59.124.75.147:1935/sat/tv421
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-纬来精采,rtmp://59.124.75.150/sat/md031
-纬来精采,rtmp://59.124.75.150:1935/sat/md031
-纬来精采,rtmp://59.124.75.147/sat/md031
+博斯运动,rtmp://59.124.75.150/sat/md031
+博斯运动,rtmp://59.124.75.150:1935/sat/md031
+博斯运动,rtmp://59.124.75.147/sat/md031
 纬来体育台,rtmp://59.124.75.150/sat/tv721
 纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
 纬来体育台,rtmp://59.124.75.147/sat/tv721
@@ -393,18 +393,18 @@ ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f6
 东森洋片台,http://113.64.116.100:808/hls/59/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 私人影院,http://171.108.239.13:8181/tsfile/live/1014_1.m3u8
-爱尔达体育2,rtmp://59.124.75.150/sat/md011
-爱尔达体育2,rtmp://59.124.75.147/sat/md011
+爱尔达体育1,rtmp://59.124.75.150/sat/md011
+爱尔达体育1,rtmp://59.124.75.147/sat/md011
 ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
 ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
 MOMO综合,rtmp://59.124.75.150/sat/tv761
 MOMO综合,rtmp://59.124.75.147/sat/tv761
-博斯魅力,rtmp://59.124.75.147/sat/md021
-博斯魅力,rtmp://59.124.75.150/sat/md021
-LSTime电影台,http://113.64.147.116:808/hls/38/index.m3u8
-LSTime电影台,http://113.64.147.73:808/hls/38/index.m3u8
+爱尔达体育2,rtmp://59.124.75.147/sat/md021
+爱尔达体育2,rtmp://59.124.75.150/sat/md021
+LSTime电影台,http://113.64.147.83:808/hls/38/index.m3u8
+LSTime电影台,http://113.64.147.74:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.87:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.136:808/hls/38/index.m3u8
 亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
