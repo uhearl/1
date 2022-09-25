@@ -184,6 +184,7 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 
 
 #哈尔滨源
+天津卫视,http://111.40.196.38/PLTV/88888888/224/3221225556/index.m3u8
 黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
 
@@ -225,10 +226,10 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 凤凰资讯,http://113.64.147.161:808/hls/33/index.m3u8
 凤凰资讯,http://113.64.147.228:808/hls/33/index.m3u8
 凤凰资讯,http://113.64.147.232:808/hls/33/index.m3u8
-香港台,http://113.64.147.37:808/hls/34/index.m3u8
-香港台,http://113.64.147.161:808/hls/34/index.m3u8
-香港台,http://113.64.147.228:808/hls/34/index.m3u8
-香港台,http://113.64.147.232:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.37:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.161:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.228:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.232:808/hls/34/index.m3u8
 中视,rtmp://59.124.75.147/sat/tv091
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.147:1935/sat/tv091
@@ -300,6 +301,7 @@ LSTime电影台,http://113.64.147.37:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.161:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.228:808/hls/38/index.m3u8
 LSTime电影台,http://113.64.147.232:808/hls/38/index.m3u8
+CCM,http://113.64.147.37:808/hls/62/index.m3u8
 iModelTV,https://juyunlive.juyun.tv/live/24950198.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581010.m3u8
@@ -340,32 +342,44 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 北京纪实,http://39.134.115.221:8080/PLTV/88888910/224/3221225676/index.m3u8
 上海纪实，http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 上海纪实,http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02
-上海纪实,http://113.64.147.18:808/hls/56/index.m3u8
 上海纪实,http://113.64.147.37:808/hls/56/index.m3u8
 上海纪实,http://113.64.147.161:808/hls/56/index.m3u8
 上海纪实,http://113.64.147.228:808/hls/56/index.m3u8
 上海纪实,http://113.64.147.232:808/hls/56/index.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-黑莓动画,http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
 爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+超级电影,http://39.135.34.144:8080/000000001000/1000000001000012884/index.m3u8?test/PLTV/=02
+超级综艺,http://39.135.34.144:8080/000000001000/1000000001000025771/index.m3u8?test/PLTV/=02
 潮婆辣妈,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
 哒啵赛事,http://111.40.196.38/PLTV/88888888/224/3221225606/index.m3u8
 谍战剧场,http://111.40.196.38/PLTV/88888888/224/3221225632/index.m3u8
 动作电影,http://111.40.196.38/PLTV/88888888/224/3221225620/index.m3u8
 古装剧场,http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+黑莓动画,http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
 家庭剧场,http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
 金牌综艺,http://111.40.196.38/PLTV/88888888/224/3221225650/index.m3u8
 惊悚悬疑,http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
-精品纪录,http://111.40.196.38/PLTV/88888888/224/3221225630/index.m3u8
 精品纪录,http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
+精品纪录,http://111.40.196.38/PLTV/88888888/224/3221225630/index.m3u8
 精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
 军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
 军事评论,http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
 农业致富,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
 武搏世界,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
 中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
-超级电影,http://39.135.34.144:8080/000000001000/1000000001000012884/index.m3u8?test/PLTV/=02
-超级综艺,http://39.135.34.144:8080/000000001000/1000000001000025771/index.m3u8?test/PLTV/=02
+
+#哈尔滨源
+爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+超级电视剧,http://111.40.196.38/PLTV/88888888/224/3221225632/index.m3u8
+超级体育,http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
+潮婆辣妈,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+哒啵赛事,http://111.40.196.38/PLTV/88888888/224/3221225606/index.m3u8
+黑莓动画,http://111.40.196.38/PLTV/88888888/224/3221225628/index.m3u8
+家庭剧场,http://111.40.196.38/PLTV/88888888/224/3221225626/index.m3u8
+金牌综艺,http://111.40.196.38/PLTV/88888888/224/3221225650/index.m3u8
+精品纪录,http://111.40.196.38/PLTV/88888888/224/3221225630/index.m3u8
+军旅剧场,http://111.40.196.38/PLTV/88888888/224/3221225622/index.m3u8
+中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
 
 
 
@@ -437,7 +451,7 @@ DAZN17,rtmp://59.124.75.150/sat/jp291
 DAZN18,rtmp://59.124.75.150/sat/jp301
 
 
-咪咕体育直播，#genre#
+体育信号，#genre#
 百事通体育1,http://111.40.196.38/PLTV/88888888/224/3221225693/index.m3u8
 百事通体育2,http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
 百事通体育3,http://111.40.196.38/PLTV/88888888/224/3221225733/index.m3u8
@@ -630,7 +644,7 @@ SBS KBC (KBC 광주방송) (1080p) ,http://119.200.131.11:1935/KBCTV/tv/playlist
 SBS KNN (KNN 부산경남대표방송) (1080p) ,http://220.95.92.160:9981/stream/channelid/1445999617
 SPOTV (1080p),https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-AdultLive,#genre#
+测试直播_888,#genre#
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 ALBA  1  masiptv.blogspot.com,http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5139
 ALBA XXX 3,http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5140
@@ -743,8 +757,7 @@ VIXEN masiptv.blogspot.com,http://cineapp.org:8000/Fernando/Fernando/121533
 XY MAX HD,http://cineapp.org:8000/Fernando/Fernando/121539
 XY PLUS HD,http://cineapp.org:8000/Fernando/Fernando/121538
 
-
-adult(不可快进)，#gerne#
+测试内容_888,#gerne#
 BABES 19,http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280509.mkv
 brandi bae sexercise slut,http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190822.mp4
 Filling Up The Babysitter 2,http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330516.mp4
