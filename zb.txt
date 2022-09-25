@@ -339,12 +339,12 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 北京纪实,http://39.134.115.221:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京纪实,http://39.134.115.221:8080/PLTV/88888910/224/3221225676/index.m3u8
 上海纪实，http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海纪实,http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02
 上海纪实,http://113.64.147.18:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.19:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.20:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.36:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.57:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.56:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.37:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.161:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.228:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.232:808/hls/56/index.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 黑莓动画,http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
 爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
