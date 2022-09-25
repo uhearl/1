@@ -1,0 +1,1115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000120&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT#http://117.148.129.6/PLTV/88888888/224/3221230242/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231468/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231471/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000018602/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000021973/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000121&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT#http://117.148.129.6/PLTV/88888888/224/3221231678/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000012442/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000023315/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000122&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000303/index.m3u8?IASHttpSessionId=OTT#http://39.135.34.144:8080/000000001000/1000000001000011218/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000013682/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000123&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT#http://117.148.129.6/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000124&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT#http://117.148.129.6/PLTV/88888888/224/3221231724/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000016466/index.m3u8?test/PLTV/=02#http://171.108.239.13:8181/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000125&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231633/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000017218/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000024341/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000126&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT#http://117.148.129.6/PLTV/88888888/224/3221231694/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000031433/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000127&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000014583/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000028286/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000128&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000023734/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000026367/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000129&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000032494/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231636/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000130&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000021349/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://live.aishang.ctlcdn.com/00000110240329_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://live.aishang.ctlcdn.com/00000110240388_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000297&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://171.108.239.13:8181/tsfile/live/1042_1.m3u8#http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000131&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT#http://39.135.34.144:8080/000000001000/1000000001000018504/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000020505/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4EUO
+http://live.aishang.ctlcdn.com/00000110240363_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4AME
+http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://live.aishang.ctlcdn.com/00000110240365_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语
+http://live.aishang.ctlcdn.com/00000110240369_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
+http://live.aishang.ctlcdn.com/00000110240370_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
+http://live.aishang.ctlcdn.com/00000110240368_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
+http://live.aishang.ctlcdn.com/00000110240367_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",第一剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",风云剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",风云音乐
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",怀旧剧场
+http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000140&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221230206/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221230232/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221230824/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231729/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000032695/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000142&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221229352/index.m3u8#http://hms363nc1880172761.live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000014260/index.m3u8?test/PLTV/=02#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://117.148.129.6/PLTV/88888888/224/3221231447/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000145&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000132&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000020780/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000030159/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000139&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231732/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000017156/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000021288/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://live.aishang.ctlcdn.com/00000110240397_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000152&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000135&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000030202/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://live.aishang.ctlcdn.com/00000110240588_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000054&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231891/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000014176/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000028357/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://live.aishang.ctlcdn.com/00000110240318_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000164&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000138&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://live.aishang.ctlcdn.com/00000110240135_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000144&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233844/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000024621/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://live.aishang.ctlcdn.com/00000110240399_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000293&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://live.aishang.ctlcdn.com/00000110240398_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000150&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233848/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000013731/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000137&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://39.135.34.144:8080/000000001000/1000000001000011645/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000134&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000092&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000062&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://122.228.87.30:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000061&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000055&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000074&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000143&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233841/index.m3u8#http://39.135.34.144:8080/000000001000/1000000001000012807/index.m3u8?test/PLTV/=02#http://39.135.34.144:8080/000000001000/1000000001000016568/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000133&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000154&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233853/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000053&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000287&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://113.64.147.37:808/hls/32/index.m3u8#http://113.64.147.161:808/hls/32/index.m3u8#http://113.64.147.228:808/hls/32/index.m3u8#http://113.64.147.232:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd#http://113.64.147.37:808/hls/33/index.m3u8#http://113.64.147.161:808/hls/33/index.m3u8#http://113.64.147.228:808/hls/33/index.m3u8#http://113.64.147.232:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://113.64.147.37:808/hls/34/index.m3u8#http://113.64.147.161:808/hls/34/index.m3u8#http://113.64.147.228:808/hls/34/index.m3u8#http://113.64.147.232:808/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+rtmp://59.124.75.147/sat/tv091#rtmp://59.124.75.150/sat/tv091#rtmp://59.124.75.147:1935/sat/tv091#rtmp://59.124.75.150:1935/sat/tv091
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+rtmp://59.124.75.147/sat/tv051#rtmp://59.124.75.150/sat/tv051#rtmp://59.124.75.147:1935/sat/tv051#rtmp://59.124.75.150:1935/sat/tv051
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+rtmp://59.124.75.150/sat/tv111#rtmp://59.124.75.147/sat/tv111#rtmp://59.124.75.150:1935/sat/tv111#rtmp://59.124.75.150:1935/sat/tv111
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+rtmp://59.124.75.150/sat/tv071#rtmp://59.124.75.147/sat/tv071#rtmp://59.124.75.150:1935/sat/tv071#rtmp://59.124.75.150:1935/sat/tv071
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台
+rtmp://59.124.75.147/sat/tv571#rtmp://59.124.75.150/sat/tv571#rtmp://59.124.75.147:1935/sat/tv571#rtmp://59.124.75.150:1935/sat/tv571
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#rtmp://59.124.75.150/sat/tv551#rtmp://59.124.75.147/sat/tv551#rtmp://59.124.75.150:1935/sat/tv551#rtmp://59.124.75.147:1935/sat/tv551
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐台
+rtmp://59.124.75.147/sat/tv421#rtmp://59.124.75.150/sat/tv421#rtmp://59.124.75.150:1935/sat/tv421#rtmp://59.124.75.147:1935/sat/tv421
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",ChannelNewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
+rtmp://59.124.75.147/sat/tv721#rtmp://59.124.75.150/sat/tv721#rtmp://59.124.75.147:1935/sat/tv721#rtmp://59.124.75.150:1935/sat/tv721#rtmp://59.124.75.150/sat/tv721#rtmp://59.124.75.147/sat/tv721#rtmp://59.124.75.150:1935/sat/tv721#rtmp://59.124.75.147:1935/sat/tv721
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
+rtmp://59.124.75.147/sat/tv701#rtmp://59.124.75.150/sat/tv701#rtmp://59.124.75.147:1935/sat/tv701#rtmp://59.124.75.150:1935/sat/tv701
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本台
+rtmp://59.124.75.147/sat/tv771#rtmp://59.124.75.150/sat/tv771#rtmp://59.124.75.147:1935/sat/tv771#rtmp://59.124.75.150:1935/sat/tv771
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",MOMO综合
+rtmp://59.124.75.150/sat/tv761#rtmp://59.124.75.147/sat/tv761
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
+rtmp://59.124.75.147/sat/tv331#rtmp://59.124.75.150/sat/tv331#rtmp://59.124.75.147:1935/sat/tv331#rtmp://59.124.75.150:1935/sat/tv331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东森卫视
+http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东森美洲
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东森美洲财经
+http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影台
+http://113.64.147.37:808/hls/58/index.m3u8#http://113.64.147.161:808/hls/58/index.m3u8#http://113.64.147.228:808/hls/58/index.m3u8#http://113.64.147.232:808/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片台
+http://113.64.147.37:808/hls/59/index.m3u8#http://113.64.147.161:808/hls/59/index.m3u8#http://113.64.147.228:808/hls/59/index.m3u8#http://113.64.147.232:808/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",LSTime电影台
+http://113.64.147.37:808/hls/38/index.m3u8#http://113.64.147.161:808/hls/38/index.m3u8#http://113.64.147.228:808/hls/38/index.m3u8#http://113.64.147.232:808/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCM
+http://113.64.147.37:808/hls/62/index.m3u8
+#EXTINF:-1 tvg-id="7186" tvg-name="ELTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" group-title="港澳台",iModelTV
+https://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581010.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
+http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼4k影院
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕4K测试
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240129_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",MAX极速汽车
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000153&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000106&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
+http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8#http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8#http://113.64.147.37:808/hls/50/index.m3u8#http://113.64.147.161:808/hls/50/index.m3u8#http://113.64.147.228:808/hls/50/index.m3u8#http://113.64.147.232:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩
+http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.134.115.221:8080/PLTV/88888910/224/3221225675/index.m3u8#http://39.134.115.221:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02#http://113.64.147.37:808/hls/56/index.m3u8#http://113.64.147.161:808/hls/56/index.m3u8#http://113.64.147.228:808/hls/56/index.m3u8#http://113.64.147.232:808/hls/56/index.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱情喜剧
+http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电影
+http://39.135.34.144:8080/000000001000/1000000001000012884/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
+http://39.135.34.144:8080/000000001000/1000000001000025771/index.m3u8?test/PLTV/=02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",潮婆辣妈
+http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",哒啵赛事
+http://111.40.196.38/PLTV/88888888/224/3221225606/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",谍战剧场
+http://111.40.196.38/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作电影
+http://111.40.196.38/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古装剧场
+http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
+http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭剧场
+http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金牌综艺
+http://111.40.196.38/PLTV/88888888/224/3221225650/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",惊悚悬疑
+http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品纪录
+http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225630/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品体育
+http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军旅剧场
+http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225622/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事评论
+http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",农业致富
+http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武搏世界
+http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国功夫
+http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8#http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级电视剧
+http://111.40.196.38/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级体育
+http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+http://113.64.147.37:808/hls/18/index.m3u8#http://113.64.147.161:808/hls/18/index.m3u8#http://113.64.147.228:808/hls/18/index.m3u8#http://113.64.147.232:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="港澳台",博斯网球台
+rtmp://59.124.75.150/sat/md011#rtmp://59.124.75.147/sat/md011
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="港澳台",ELEVEN体育一台
+rtmp://59.124.75.150/sat/tv731#rtmp://59.124.75.147/sat/tv731#rtmp://59.124.75.150:1935/sat/tv731#rtmp://59.124.75.147:1935/sat/tv731
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN体育二台
+rtmp://59.124.75.150/sat/tv741#rtmp://59.124.75.147/sat/tv741#rtmp://59.124.75.150:1935/sat/tv741#rtmp://59.124.75.147:1935/sat/tv741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN1
+rtmp://59.124.75.147/sat/jp131#rtmp://59.124.75.150/sat/jp131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN2
+rtmp://59.124.75.147/sat/jp141#rtmp://59.124.75.150/sat/jp141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN3
+rtmp://59.124.75.147/sat/jp151#rtmp://59.124.75.150/sat/jp151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN4
+rtmp://59.124.75.147/sat/jp161#rtmp://59.124.75.150/sat/jp161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN5
+rtmp://59.124.75.147/sat/jp171#rtmp://59.124.75.150/sat/jp171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN6
+rtmp://59.124.75.147/sat/jp181#rtmp://59.124.75.150/sat/jp181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN7
+rtmp://59.124.75.147/sat/jp191#rtmp://59.124.75.150/sat/jp191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN8
+rtmp://59.124.75.147/sat/jp201#rtmp://59.124.75.150/sat/jp201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN9
+rtmp://59.124.75.147/sat/jp211#rtmp://59.124.75.150/sat/jp211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN10
+rtmp://59.124.75.147/sat/jp221#rtmp://59.124.75.150/sat/jp221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN11
+rtmp://59.124.75.147/sat/jp231#rtmp://59.124.75.150/sat/jp231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN12
+rtmp://59.124.75.147/sat/jp241#rtmp://59.124.75.150/sat/jp241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN13
+rtmp://59.124.75.147/sat/jp251#rtmp://59.124.75.150/sat/jp251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN14
+rtmp://59.124.75.147/sat/jp261#rtmp://59.124.75.150/sat/jp261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN15
+rtmp://59.124.75.147/sat/jp271#rtmp://59.124.75.150/sat/jp271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN16
+rtmp://59.124.75.147/sat/jp281#rtmp://59.124.75.150/sat/jp281
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN17
+rtmp://59.124.75.147/sat/jp291#rtmp://59.124.75.150/sat/jp291
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAZN18
+rtmp://59.124.75.147/sat/jp301#rtmp://59.124.75.150/sat/jp301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育1
+http://111.40.196.38/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育2
+http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育3
+http://111.40.196.38/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育4
+http://111.40.196.38/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通体育5
+http://111.40.196.38/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育1
+http://117.148.129.6/PLTV/88888888/224/3221233017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育2
+http://117.148.129.6/PLTV/88888888/224/3221233041/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育3
+http://117.148.129.6/PLTV/88888888/224/3221233067/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育4
+http://117.148.129.6/PLTV/88888888/224/3221233089/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育5
+http://117.148.129.6/PLTV/88888888/224/3221233092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育6
+http://117.148.129.6/PLTV/88888888/224/3221233104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育7
+http://117.148.129.6/PLTV/88888888/224/3221233332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育8
+http://117.148.129.6/PLTV/88888888/224/3221233365/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育9
+http://117.148.129.6/PLTV/88888888/224/3221233368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育10
+http://117.148.129.6/PLTV/88888888/224/3221233415/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育11
+http://117.148.129.6/PLTV/88888888/224/3221233425/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育12
+http://117.148.129.6/PLTV/88888888/224/3221233443/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育13
+http://117.148.129.6/PLTV/88888888/224/3221233472/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育14
+http://117.148.129.6/PLTV/88888888/224/3221233484/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育15
+http://117.148.129.6/PLTV/88888888/224/3221233506/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育16
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233509/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育17
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233512/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育18
+http://117.148.129.6/PLTV/88888888/224/3221233541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育19
+http://117.148.129.6/PLTV/88888888/224/3221233109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育20
+http://117.148.129.6/PLTV/88888888/224/3221233791/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育21
+http://117.148.129.6/PLTV/88888888/224/3221233793/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育22
+http://117.148.129.6/PLTV/88888888/224/3221233857/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233857/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育23
+http://117.148.129.6/PLTV/88888888/224/3221233860/index.m3u8#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233860/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育24
+http://117.148.129.6/PLTV/88888888/224/3221232590/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号1
+http://117.148.129.6/PLTV/88888888/224/3221233508/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号2
+http://117.148.129.6/PLTV/88888888/224/3221232984/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号3
+http://117.148.129.6/PLTV/88888888/224/3221233020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号4
+http://117.148.129.6/PLTV/88888888/224/3221233062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号5
+http://117.148.129.6/PLTV/88888888/224/3221233065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号6
+http://117.148.129.6/PLTV/88888888/224/3221233068/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号7
+http://117.148.129.6/PLTV/88888888/224/3221233073/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号8
+http://117.148.129.6/PLTV/88888888/224/3221233074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号9
+http://117.148.129.6/PLTV/88888888/224/3221233082/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号10
+http://117.148.129.6/PLTV/88888888/224/3221233085/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号11
+http://117.148.129.6/PLTV/88888888/224/3221233086/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号12
+http://117.148.129.6/PLTV/88888888/224/3221233100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号13
+http://117.148.129.6/PLTV/88888888/224/3221233106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号14
+http://117.148.129.6/PLTV/88888888/224/3221233142/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号15
+http://117.148.129.6/PLTV/88888888/224/3221233145/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号16
+http://117.148.129.6/PLTV/88888888/224/3221233353/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号17
+http://117.148.129.6/PLTV/88888888/224/3221233401/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号18
+http://117.148.129.6/PLTV/88888888/224/3221233413/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冬奥信号19
+http://117.148.129.6/PLTV/88888888/224/3221233454/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",WTT轮播
+http://117.148.129.6/PLTV/88888888/224/3221233464/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233496/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221233505/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播1
+http://117.148.129.6/PLTV/88888888/224/3221232563/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播2
+http://117.148.129.6/PLTV/88888888/224/3221232572/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播3
+http://117.148.129.6/PLTV/88888888/224/3221232623/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播4
+http://117.148.129.6/PLTV/88888888/224/3221232627/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播5
+http://117.148.129.6/PLTV/88888888/224/3221232684/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播6
+http://117.148.129.6/PLTV/88888888/224/3221232708/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播7
+http://117.148.129.6/PLTV/88888888/224/3221233371/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播8
+http://117.148.129.6/PLTV/88888888/224/3221233421/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播9
+http://117.148.129.6/PLTV/88888888/224/3221232018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播10
+http://117.148.129.6/PLTV/88888888/224/3221232074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播11
+http://117.148.129.6/PLTV/88888888/224/3221232198/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播12
+http://117.148.129.6/PLTV/88888888/224/3221232324/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播13
+http://117.148.129.6/PLTV/88888888/224/3221232330/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播14
+http://117.148.129.6/PLTV/88888888/224/3221232617/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播15
+http://117.148.129.6/PLTV/88888888/224/3221232620/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播16
+http://117.148.129.6/PLTV/88888888/224/3221232624/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕直播17
+http://117.148.129.6/PLTV/88888888/224/3221233605/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有儿女
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好先生
+http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",今晚80后
+http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炊事班的故事
+http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",民兵葛二蛋
+http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",三国演义
+http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冰与火之歌
+http://maomao.kandiantv.cn/douyu1.php?id=8945323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武侠剧场
+http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱情公寓
+http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",周润发系列
+http://117.148.129.6/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",老炮电影
+http://117.148.129.6/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",葛优系列
+http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",刘德华系列
+http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",刘亦菲系列
+http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",张国荣系列2
+http://117.148.129.6/PLTV/88888888/224/3221231790/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金庸系列
+http://117.148.129.6/PLTV/88888888/224/3221231477/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",午夜剧场
+http://117.148.129.6/PLTV/88888888/224/3221231516/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕暑期剧场
+http://117.148.129.6/PLTV/88888888/224/3221231624/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场1
+http://117.148.129.6/PLTV/88888888/224/3221232068/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221232483/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场2
+http://117.148.129.6/PLTV/88888888/224/3221232135/index.m3u8#http://117.148.129.6/PLTV/88888888/224/3221232426/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场3
+http://117.148.129.6/PLTV/88888888/224/3221232143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场4
+http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场5
+http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕剧场7
+http://117.148.129.6/PLTV/88888888/224/3221232260/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高分影视
+http://maomao.kandiantv.cn/douyu1.php?id=1735337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",士兵突击
+http://maomao.kandiantv.cn/douyu1.php?id=4396972
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",邵氏影院
+http://maomao.kandiantv.cn/douyu1.php?id=4246519#http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",科幻动作
+http://maomao.kandiantv.cn/douyu1.php?id=4332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",粤语电影
+http://maomao.kandiantv.cn/douyu1.php?id=6566671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",神乐影院
+http://maomao.kandiantv.cn/douyu1.php?id=85894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",午夜故事
+http://maomao.kandiantv.cn/douyu1.php?id=8722254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",功夫港片
+http://maomao.kandiantv.cn/douyu1.php?id=3637765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贝贝影院
+http://maomao.kandiantv.cn/douyu1.php?id=431460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",译制国语
+http://maomao.kandiantv.cn/douyu1.php?id=2436390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蚂蚱影院
+http://maomao.kandiantv.cn/douyu1.php?id=6079455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",鬼吹灯
+http://maomao.kandiantv.cn/douyu1.php?id=9292503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",胡八一
+http://maomao.kandiantv.cn/douyu1.php?id=7701735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小宇影院
+http://maomao.kandiantv.cn/douyu1.php?id=323876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",恐怖丧尸鬼片
+http://maomao.kandiantv.cn/douyu1.php?id=263824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",荒野建造者
+http://maomao.kandiantv.cn/douyu1.php?id=9611578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",科幻动作灾难
+http://maomao.kandiantv.cn/douyu1.php?id=248753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可乐影院
+http://maomao.kandiantv.cn/douyu1.php?id=20415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贝爷影院
+http://maomao.kandiantv.cn/douyu1.php?id=252802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港式恐怖
+http://maomao.kandiantv.cn/douyu1.php?id=3637726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",漫威影片
+http://maomao.kandiantv.cn/douyu1.php?id=6140589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧经典
+http://maomao.kandiantv.cn/douyu1.php?id=9650887#http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贝爷影厅2
+http://maomao.kandiantv.cn/douyu1.php?id=36337#http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",霍格影片
+http://maomao.kandiantv.cn/douyu1.php?id=8814650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",冰冰经典电影
+http://maomao.kandiantv.cn/douyu1.php?id=74374#http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星星影院
+http://maomao.kandiantv.cn/douyu1.php?id=315131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",科幻系列
+http://maomao.kandiantv.cn/douyu1.php?id=8107217
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华语动作电影
+http://maomao.kandiantv.cn/douyu1.php?id=1504768#http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧电影
+http://maomao.kandiantv.cn/douyu1.php?id=9292492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高帧影片
+http://maomao.kandiantv.cn/douyu1.php?id=6763930#http://epg.112114.xyz/douyu/6763930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",一起看恐怖片
+http://maomao.kandiantv.cn/douyu1.php?id=9412287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",平安夜快乐
+http://maomao.kandiantv.cn/douyu1.php?id=6863367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",篮球纪录片
+http://maomao.kandiantv.cn/douyu1.php?id=8434598
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热血动漫
+http://maomao.kandiantv.cn/douyu1.php?id=206858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",神乐影片
+http://epg.112114.xyz/douyu/122402#http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贝爷MAX厅
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",周星驰电影
+http://epg.112114.xyz/douyu/3990812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",刘德华电影2
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",女神金电影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",变种人电影
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",米娅电影
+http://epg.112114.xyz/douyu/6537888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影7
+http://epg.112114.xyz/douyu/3637726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影8
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影16
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影18
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影22
+http://epg.112114.xyz/douyu/1979257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影35
+http://epg.112114.xyz/douyu/248753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影108
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影128
+http://epg.112114.xyz/douyu/675072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影129
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影151
+http://epg.112114.xyz/douyu/426517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影166
+http://epg.112114.xyz/douyu/5581257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影118
+http://epg.112114.xyz/douyu/4631599
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗鱼电影137
+http://epg.112114.xyz/douyu/1274132
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="港澳台",BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",UNWebTV.us
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK CHINA
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台",Bloomberg
+http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Fuji TV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",New Japan Pro Wrestling W
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK General TV
+https://nhk2.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TBS 
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",GugakTV 국악방송 (1080p)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Gugbang TV (1080p) 
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MBC Gyeongnam (경상 MBC) (1
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MBC Yeosu (여수 MBC) (1080p
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SBS (#1) (1080p) 
+http://183.99.22.189:9981/stream/channelid/1124346476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SBS KBC (KBC 광주방송) (1080p
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SBS KNN (KNN 부산경남대표방송) (1
+http://220.95.92.160:9981/stream/channelid/1445999617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SPOTV (1080p)
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",A3Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ALBA  1  masiptv.blogspot
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ALBA XXX 3
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ALBA XXX 4
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Anal
+http://cdn.adultiptv.net/anal.m3u8#http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Asian
+http://cdn.adultiptv.net/asian.m3u8#http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",asmin_tv
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES TV masiptv.blogspot
+http://cineapp.org:8000/Fernando/Fernando/121537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Babestation24
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BigAss
+http://cdn.adultiptv.net/bigass.m3u8#http://live.redtraffic.xyz/bigass.m3u8#http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BigDick
+http://cdn.adultiptv.net/bigdick.m3u8#http://live.redtraffic.xyz/bigdick.m3u8#http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BigTits
+http://cdn.adultiptv.net/bigtits.m3u8#http://live.redtraffic.xyz/bigtits.m3u8#http://live.redtraffic.xyz:80/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Blonde
+http://cdn.adultiptv.net/blonde.m3u8#http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls#http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8#http://live.redtraffic.xyz/blowjob.m3u8#http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRAZZERS TV EUROPE HD
+http://cineapp.org:8000/Fernando/Fernando/121550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRAZZERS TV EUROPE UA HD
+http://cineapp.org:8000/Fernando/Fernando/121551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRAZZERS TV HD
+http://cineapp.org:8000/Fernando/Fernando/121549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Brunette
+http://cdn.adultiptv.net/brunette.m3u8#http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Compilation
+http://cdn.adultiptv.net/compilation.m3u8#http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8#http://live.redtraffic.xyz:80/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DORCEL masiptv.blogspot.c
+http://cineapp.org:8000/Fernando/Fernando/121530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DORCEL XXX  HD
+http://cineapp.org:8000/Fernando/Fernando/121531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Dorcel XXX_Website  masip
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DUSK! HD
+http://cineapp.org:8000/Fernando/Fernando/121543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EropulsDE
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EROTIC 1 HD
+http://cineapp.org:8000/Fernando/Fernando/121558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EROTIC 3 HD
+http://cineapp.org:8000/Fernando/Fernando/121560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EROTIC 5 HD
+http://cineapp.org:8000/Fernando/Fernando/121562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EROTIC 6 HD
+http://cineapp.org:8000/Fernando/Fernando/121563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EROTIC 7 HD
+http://cineapp.org:8000/Fernando/Fernando/121564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Erox-hd
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EVIL ANGEL masiptv.blogsp
+http://cineapp.org:8000/Fernando/Fernando/121557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",EvilAngel
+http://212.18.115.193:3169/play/ftv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Fetish
+http://cdn.adultiptv.net/fetish.m3u8#http://live.redtraffic.xyz/fetish.m3u8#http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8#http://live.redtraffic.xyz/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Gay
+http://cdn.adultiptv.net/gay.m3u8#http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HardCore
+http://cdn.adultiptv.net/hardcore.m3u8#http://live.redtraffic.xyz/hardcore.m3u8#http://live.redtraffic.xyz:80/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HOT TV masiptv.blogspot.c
+http://cineapp.org:8000/Fernando/Fernando/121552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HUSTLER masiptv.blogspot.
+http://cineapp.org:8000/Fernando/Fernando/121527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HUSTLER
+http://odenfull.co:2086/NATALY4334/20TORRE50s/203082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Latina
+http://cdn.adultiptv.net/latina.m3u8#http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8#http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LiveCams
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",masiptv.blogspot.com
+http://cineapp.org:8000/Fernando/Fernando/121545#http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5088#http://nvid101.cdnii.com/2021/0/20210167-720p.mp4#https://ovhv47.twincdn.com/videos/32/32453/32453_720p.mp4#http://nvid101.cdnii.com/2022/0/20220785-720p.mp4#http://nvid101.cdnii.com/2018/2/20182119-720p.mp4#https://ovhv47.twincdn.com/videos/32/32440/32440_720p.mp4#http://nvid101.cdnii.com/2022/0/20220786-720p.mp4#http://nvid101.cdnii.com/2018/2/20182122-720p.mp4#https://ovhv47.twincdn.com/videos/32/32472/32472_720p.mp4#http://nvid101.cdnii.com/2022/0/20220782-720p.mp4#http://nvid101.cdnii.com/2018/2/20182129-720p.mp4#https://ovhv47.twincdn.com/videos/32/32442/32442_720p.mp4#http://nvid101.cdnii.com/2022/0/20220783-720p.mp4#https://ovhv47.twincdn.com/videos/32/32443/32443_720p.mp4#http://nvid101.cdnii.com/2021/0/20210168-720p.mp4#http://nvid101.cdnii.com/2021/0/20210169-720p.mp4#https://ovhv47.twincdn.com/videos/32/32444/32444_720p.mp4#http://nvid101.cdnii.com/2018/2/20182125-720p.mp4#http://nvid101.cdnii.com/2021/0/20210170-720p.mp4#https://ovhv47.twincdn.com/videos/32/32445/32445_720p.mp4#http://nvid101.cdnii.com/2018/2/20182126-720p.mp4#http://nvid101.cdnii.com/2021/0/20210171-720p.mp4#http://nvid101.cdnii.com/2018/2/20182120-720p.mp4#https://ovhv47.twincdn.com/videos/32/32476/32476_720p.mp4#http://nvid101.cdnii.com/2018/2/20182121-720p.mp4#https://ovhv47.twincdn.com/videos/32/32477/32477_720p.mp4#http://nvid101.cdnii.com/2018/2/20182128-720p.mp4#https://ovhv47.twincdn.com/videos/32/32451/32451_720p.mp4#http://nvid101.cdnii.com/2018/2/20182123-720p.mp4#https://ovhv47.twincdn.com/videos/32/32474/32474_720p.mp4#http://nvid101.cdnii.com/2018/2/20182124-720p.mp4#https://ovhv47.twincdn.com/videos/32/32475/32475_720p.mp4#http://nvid101.cdnii.com/2018/2/20182110-720p.mp4#https://ovhv47.twincdn.com/videos/32/32452/32452_720p.mp4#https://ovhv47.twincdn.com/videos/32/32473/32473_720p.mp4#http://nvid101.cdnii.com/2018/2/20182112-720p.mp4#https://ovhv47.twincdn.com/videos/32/32454/32454_720p.mp4#http://nvid101.cdnii.com/2018/1/20181114-720p.mp4#https://ovhv47.twincdn.com/videos/32/32455/32455_720p.mp4#http://nvid101.cdnii.com/2018/2/20182114-720p.mp4#http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_alexlittle102814/content/vid01.mp4#http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_kayleehaze081714/content/vid01.mp4#http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_cosimaknight092514/content/vid01.mp4#http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_adrianmaya082014/content/vid01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MEIDEN VAN HOLLAND HARD H
+http://cineapp.org:8000/Fernando/Fernando/121556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MiamiTVJennyForYou
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MiamiTVJennyLive
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MiamiTVLatino
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MiamiTVMéxico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MILF
+http://live.redtraffic.xyz/milf.m3u8#http://live.redtraffic.xyz:80/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MOFOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PASSIE XXX HD
+http://cineapp.org:8000/Fernando/Fernando/121546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PENTHOUSE QUICKIES HD
+http://cineapp.org:8000/Fernando/Fernando/121535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Penthouse Quickies
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PinkoClub
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PLAYBOY[960*540]
+http://odenfull.co:2086/NATALY4334/20TORRE50s/89097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8#http://live.redtraffic.xyz/pornstar.m3u8#http://live.redtraffic.xyz:80/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",POV
+http://cdn.adultiptv.net/pov.m3u8#http://live.redtraffic.xyz/pov.m3u8#http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedlightHD
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Rough
+http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Russian
+http://cdn.adultiptv.net/russian.m3u8#http://live.redtraffic.xyz/russian.m3u8#http://live.redtraffic.xyz:80/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Russkaya_Noch
+http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SEXTREME TV HD
+http://cineapp.org:8000/Fernando/Fernando/121554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SEXY HOT HD
+http://cineapp.org:8000/Fernando/Fernando/121555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SUPER ONE HD
+http://cineapp.org:8000/Fernando/Fernando/121536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Teen
+http://live.redtraffic.xyz/teen.m3u8#http://live.redtraffic.xyz:80/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Threesome
+http://live.redtraffic.xyz:80/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VENUS TV HD[720*540]
+http://cineapp.org:8000/Fernando/Fernando/121553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIVID RED HD
+http://cineapp.org:8000/Fernando/Fernando/121532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIVID RED
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIVID TOUCH HD
+http://cineapp.org:8000/Fernando/Fernando/121542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIVID TV EUROPE HD
+http://cineapp.org:8000/Fernando/Fernando/121541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIXEN masiptv.blogspot.co
+http://cineapp.org:8000/Fernando/Fernando/121533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",XY MAX HD
+http://cineapp.org:8000/Fernando/Fernando/121539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",XY PLUS HD
+http://cineapp.org:8000/Fernando/Fernando/121538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 19
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",brandi bae sexercise slut
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Filling Up The Babysitter
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Mia Khalifa 2
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",A MODEST GIRL DOESNT KNOW
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",A Rubdown To RememberXXX
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ANAL SEX IS THE GREATEST 
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Anal Sweetheart
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Assistant FailXXX
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Avengers vs X-Men XXX An 
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 01
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 02
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 03
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 04
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 05
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 06
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 07
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 08
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 09
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 10
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 11
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 12
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 13
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 14
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 15
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 16
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 17
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 18
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 20
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 21
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 22
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 25
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 26
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 28
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 36
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 43
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 46
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 48
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 49
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 50
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Banging Her Brother-In-La
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BEAUTIFUL RUSSIAN YOUNG A
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BEAUTIFUL SEX VIDEO
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BEHAARTES TEEN VERWOEHNT
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BRATTY SIS FALL FOR BROTH
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CANDY CREAMPIE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CANDY CRISP - 1ST PORN 1S
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CAROL - 18 YO HIGH SCHOOL
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHECKING OUT HER ACTING S
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHELCEE - BARELY 18 FIRST
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",COLLEGE CUTIE NICKY LYNN 
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CUTIE LETS FAKE AGENT POU
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CZECH CASTING - VIRGIN TE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DAGFS - NADIA ALI EXPOSES
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",DESIRABLE TEEN HONEY GETS
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ENJOYING BEING EXPLOITED
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FACIALIZED TEEN FUCKING S
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FANTASYHD6
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FIRST ANAL REQUEST
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FREE PORN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FREE PORN VIDEOS - SOME J
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FUCK IN THE OPEN AIR FOR 
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FUCKED HIS LOVELY GIRLFRI
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FUCKING GIRLFRIEND WHILE 
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",GORGEOUS TEEN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HARDCORE IN A HOTEL
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HOMEMADE FUCKING ANAL
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HOT GIRL (ANAL)
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280370.mkv
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="港澳台",HOT INDIAN PERSIAN OR ARA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Inspecting My Stepsisters
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Its Okay Shes My Stepsist
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",JASMINE - FAKEAGENT
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Just The Right Size 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KINKY FAMILY - TEACH ME A
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LIZA ROWE AUDITIONS FOR B
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LOREN MINARDI'S PUBLIC FU
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Maid To Love You 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MEGAN RAIN THANKED STRANG
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NANNYSPY1
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NAUGHTY NIKKI
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NO LONGER A VIRGIN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Old And Young Pussy Licke
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ORIGINAL SIN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PASSIONATE DOGGY STYLE FU
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PRIVATE CASTING X FIRST T
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Probando al Esposo de mi 
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SANTA CUMS EARLY ON THE S
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Sexy Flexy Teens 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Shut Up And Fuck Me 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SHY AT FIRST BUT SUPER NA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SLEEPING BLONDE WITH PIGT
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SMOOTH PUSSY BRUNETTE RAI
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SUPER PETITE TEEN LIL CAN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SWEET BABE WITH NATURAL B
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SWEET TEEN DRENCHED IN CU
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Sweethearts Porn Tour 14 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Threesome Virgins 2 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY 01_Website  masiptv
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY 24
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY ABIGAIL2_Website  m
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY BREE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY BRETT
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY CHLOE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY ELLA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY JESSA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY KENZIE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY LITTLE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY LIYA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY MARY
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TUSHY MISHA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",WHITE GIRL TRIES ANAL WIT
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",WHITE OUTFIT BRUNETTE PLE
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YOUNG ASIAN LIKES IN ANUS
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BUSTY GF ANALLY FUCKED AN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FANTASTIC INTERRACIAL CAS
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",LATINA TEEN PLAYS AND FUC
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CASTINGCOUCH-X - BUSTY VI
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",masiptv.blogspot.com[1280
+https://ovhv47.twincdn.com/videos/32/32456/32456_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NAUGHTY BLONDE GETS A BLA
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PAINFUL FIRST TIME ANAL S
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",POV CASTING WITH YOUNG CZ
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PURE SEXUAL ACTRATION 13 
+http://max.omegadigital.xyz:8080/movie/Ndani123/un3GJtv8q8/330519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SLUTTY GIRLFRIEND ANGEL H
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHLOE ON BACKROOM CASTING
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PUREMATURE 1
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PUREMATURE 2
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SEDUCTIVE ASIAN FUCKED IN
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",STEFANIE HEINZMANN LOOK-A
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",YOUNG BITCH WITH BIG LIBI
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",A Fuck To Rememberv_Websi
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Alex Mae Spinner Gets Pus
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",alison tyler[854*480]
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Ashton blake[854*480]
+http://odenfull.co:2086/movie/NATALY4334/20TORRE50s/190802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 23[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 24[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 27[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 29[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 30[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 31[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 32[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 33[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 34[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 35[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 37[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 38[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 39[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 40[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 41[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 42[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 44[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 45[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BABES 47[854*480]
+http://driptvs.com:8080/movie/WHT1344/zNAqmDwYC4/280481.mkv
