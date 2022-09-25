@@ -15,7 +15,6 @@ CCTV13,rtp://239.93.0.66:5140
 CCTV14,rtp://239.93.1.29:6000
 CCTV15,rtp://239.93.0.103:5140
 CCTV16,rtp://239.93.42.54:5140
-CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6QbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV17,rtp://239.93.0.92:5140
 CCTV4AME,http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8
 CCTV4EUO,http://117.148.129.6/PLTV/88888888/224/3221231615/index.m3u8
@@ -28,6 +27,7 @@ CGTN法语,rtp://239.93.42.50:5140
 高尔夫网球,rtp://239.93.0.202:9068
 央视台球,rtp://239.93.0.203:9072
 世界地理,rtp://239.93.0.200:9052
+CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6QbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
 卫视频道,#genre#
@@ -165,7 +165,6 @@ CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CCTV4K,http://117.148.129.6/PLTV/88888888/224/3221233400/index.m3u8
 CCTV8K,rtp://239.93.42.61:5140
 CCTV16,rtp://239.93.42.54:5140
-CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 爱上4K,rtp://239.93.0.97:5140
 绚影4K,rtp://239.93.42.33:5140
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
@@ -173,8 +172,6 @@ CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?C
 斗鱼4k,http://epg.112114.xyz/douyu/9249162
 4K超电影,rtp://239.93.1.156:5140
 4K乐享超清,rtp://239.93.0.43:5140
-亲子趣学4K,rtp://239.93.1.191:5140
-津津悦读4K,rtp://239.93.1.197:5140
 中录动漫4K,rtp://239.93.1.188:5140
 
 体育频道,#genre#
@@ -185,7 +182,7 @@ CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?C
 魅力足球,http://113.64.147.162:808/hls/50/index.m3u8
 魅力足球,http://113.64.147.228:808/hls/50/index.m3u8
 魅力足球,http://113.64.147.232:808/hls/50/index.m3u8
-劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000102&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 广东体育,http://113.64.147.37:808/hls/18/index.m3u8
 广东体育,http://113.64.147.161:808/hls/18/index.m3u8
 广东体育,http://113.64.147.228:808/hls/18/index.m3u8
@@ -194,8 +191,6 @@ CCTV16,http://live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?C
 纬来体育台,rtmp://59.124.75.147/sat/tv721
 纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
 纬来体育台,rtmp://59.124.75.147:1935/sat/tv721
-博斯网球台,rtmp://59.124.75.150/sat/md011
-博斯网球台,rtmp://59.124.75.147/sat/md011
 ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.150:1935/sat/tv731
@@ -204,6 +199,10 @@ ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
+博斯运动二台,rtmp://59.124.75.150/sat/md011
+博斯运动二台,rtmp://59.124.75.147/sat/md011
+爱尔达体育2,rtmp://59.124.75.150/sat/md021
+爱尔达体育2,rtmp://59.124.75.147/sat/md021
 
 咪咕直播信号,#genre#
 咪咕体育1,http://117.148.129.6/PLTV/88888888/224/3221233017/index.m3u8
@@ -345,6 +344,7 @@ IPTV热播剧场,rtp://239.93.0.56:9020
 鬼吹灯1,http://maomao.kandiantv.cn/douyu1.php?id=9292503
 鬼吹灯2,http://maomao.kandiantv.cn/douyu1.php?id=7701735
 冰与火之歌,http://maomao.kandiantv.cn/douyu1.php?id=8945323
+士兵突击,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 武侠剧场,http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
 爱情公寓,http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
 军旅剧场,http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
@@ -395,7 +395,6 @@ IPTV热播剧场,rtp://239.93.0.56:9020
 篮球纪录片,http://maomao.kandiantv.cn/douyu1.php?id=8434598
 热血动漫,http://maomao.kandiantv.cn/douyu1.php?id=206858
 高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
-变成了一颗苹果~,http://maomao.kandiantv.cn/douyu1.php?id=4396972
 邵氏影院,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影片,http://epg.112114.xyz/douyu/85894
