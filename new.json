@@ -35,7 +35,8 @@
 		"filterable":0,
 		"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/310kanqiu.json"
 	},  
-	{"key":"JRS看球网","name":"⚽看球备选4","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/zqzb.json"},{
+	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/88kanqiu.json"}
+	{"key":"JRS看球网","name":"⚽看球备选④","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/zqzb.json"},{
 		"key": "快看",
 		"name": "👀快看",
 		"type": 3,
