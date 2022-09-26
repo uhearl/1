@@ -230,6 +230,10 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 凤凰香港,http://113.64.147.96:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.144:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.191:808/hls/34/index.m3u8
+翡翠台,https://pull-l3-cny.douyincdn.com/live/4ec316d851a9c7c0beeffa22c3734fcd.flv
+中视,http://pull-rtmp-l6.ixigua.com/live/216e77bf6d7c6ab975524a941db51979.flv
+民视,http://pull-rtmp-l6.ixigua.com/live/6a08f93459bfe9e1bf0843baffe82eb8.flv
+华视，http://pull-rtmp-l6.ixigua.com/live/f72f33347533c1ecb5a7671b800d8cf5.flv
 中视,rtmp://59.124.75.147/sat/tv091
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.147:1935/sat/tv091
@@ -410,8 +414,7 @@ ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
-爱尔达体育1,https://pull-l3-cny.douyincdn.com/live/e5191329497a07b1922b15c8eaab4a99.flv
-爱尔达体育2,https://pull-l3-cny.douyincdn.com/live/fd8f1b1a2c5c2a0021cdc31c18f09403.flv
+爱尔达体育2,https://pull-l3-cny.douyincdn.com/live/614e6f75544121ee9ab6ea04f8e94a42.flv
 少儿频道,#genre#
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 小猪佩奇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
