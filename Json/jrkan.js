@@ -6,7 +6,7 @@
     //"homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
-        "赛事直播": "1"
+        "赛事列表": "1"
     },
 	
 	// 首页推荐视频的节点
@@ -51,7 +51,7 @@
     //演员
     "dtActor": "/li[1]/span/text()",
     // 导演
-    "dtDirector": "concat('xxx -','大头邀你一起看球 ')",
+    "dtDirector": "concat('大头影视 -','邀你一起看球 ')",
     "dtDirectorR": "",
     // 视频简介
     "dtDesc": "concat(/li[3]/strong/text(),'-',/li[5]/strong/text())",
