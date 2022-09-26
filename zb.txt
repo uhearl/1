@@ -118,15 +118,14 @@ CCTV13,http://117.148.129.6/PLTV/88888888/224/3221231636/index.m3u8
 CCTV15,http://117.148.129.6/PLTV/88888888/224/3221231693/index.m3u8
 CCTV4AME,http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8
 CCTV4EUO,http://117.148.129.6/PLTV/88888888/224/3221231615/index.m3u8
-
 CCTV1,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231468/1.m3u8
 CCTV3,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231682/1.m3u8
-CCTV4EUO,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231615/1.m3u8
 CCTV5,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231702/1.m3u8
 CCTV6,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231724/1.m3u8
 CCTV7,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231633/1.m3u8
 CCTV10,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232492/1.m3u8
 CCTV17,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231772/1.m3u8
+CCTV4EUO,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231615/1.m3u8
 
 
 
@@ -367,6 +366,33 @@ iModelTV,https://juyunlive.juyun.tv/live/24950198.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 
+体育频道,#genre#
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+魅力足球,http://113.64.147.72:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.96:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.144:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.191:808/hls/50/index.m3u8
+劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+广东体育,http://113.64.147.72:808/hls/18/index.m3u8
+广东体育,http://113.64.147.96:808/hls/18/index.m3u8
+广东体育,http://113.64.147.144:808/hls/18/index.m3u8
+广东体育,http://113.64.147.191:808/hls/18/index.m3u8
+纬来体育台,rtmp://59.124.75.150/sat/tv721
+纬来体育台,rtmp://59.124.75.147/sat/tv721
+纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
+纬来体育台,rtmp://59.124.75.147:1935/sat/tv721
+博斯网球台,rtmp://59.124.75.150/sat/md011
+博斯网球台,rtmp://59.124.75.147/sat/md011
+ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
+ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
+ELEVEN体育一台,rtmp://59.124.75.150:1935/sat/tv731
+ELEVEN体育一台,rtmp://59.124.75.147:1935/sat/tv731
+ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
+ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
+ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
+ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
 
 超清体验,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
@@ -387,7 +413,6 @@ CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 CHC家庭电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 
 淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
-TVB经典,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
 
 #南京移动源（稳）
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
@@ -419,6 +444,7 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 上海纪实,http://113.64.147.191:808/hls/56/index.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 
+NewTV,#genre#
 超级电影,http://39.135.34.144:8080/000000001000/1000000001000012884/index.m3u8?test/PLTV/=02
 超级综艺,http://39.135.34.144:8080/000000001000/1000000001000025771/index.m3u8?test/PLTV/=02
 动作电影,http://111.40.196.38/PLTV/88888888/224/3221225620/index.m3u8
@@ -434,6 +460,16 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 农业致富,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
 武搏世界,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
 
+#北京移动源
+超级电视剧,http://111.13.42.234/PLTV/88888888/224/3221226368/1.m3u8
+动作电影,http://111.13.42.234/PLTV/88888888/224/3221226329/1.m3u8
+金牌综艺,http://111.13.42.234/PLTV/88888888/224/3221226347/1.m3u8
+精品萌宠,http://111.13.42.234/PLTV/88888888/224/3221226321/1.m3u8
+精品萌宠,http://111.13.42.234/PLTV/88888888/224/3221226976/1.m3u8
+军旅剧场,http://111.13.42.234/PLTV/88888888/224/3221226324/1.m3u8
+军事评论,http://111.13.42.234/PLTV/88888888/224/3221226326/1.m3u8
+
+
 
 #哈尔滨源
 爱情喜剧,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
@@ -448,35 +484,50 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 军旅剧场,http://111.40.196.38/PLTV/88888888/224/3221225622/index.m3u8
 中国功夫,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
 
+咪咕轮播,#genre#
+军事迷必看大片
+体育影视佳作,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231679/1.m3u8
+温情催泪影院
+爱国影展
+美国电影时刻,http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
+高能烧脑时刻[1280*720],http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
+约你看韩影
+风华上海[1280*720],http://117.148.129.6/PLTV/88888888/224/3221231645/index.m3u8
+纯爱文艺影院,http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
+印度神片
+泰想看电影,http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
+影像俄罗斯,http://117.148.129.6/PLTV/88888888/224/3221232143/index.m3u8
+影像俄罗斯,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232143/1.m3u8
+吴京作品集
+周润发影院,http://117.148.129.6/PLTV/88888888/224/3221231709/index.m3u8
+周星驰影院
+解压影院,http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
+成龙作品集
+刘德华影院,http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
+张国荣影院,http://117.148.129.6/PLTV/88888888/224/3221231790/index.m3u8
+喜剧联盟,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231621/1.m3u8
+试胆大会
+新片放映厅
+爆款动画电影
+科幻电影,http://117.148.129.6/PLTV/88888888/224/3221232135/index.m3u8
+科幻电影,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232135/1.m3u8
+高能烧脑时刻,http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
+高清大片
+僵尸剧场
+军旅剧场,http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
+红色谍战剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231627/1.m3u8
+金庸频道,http://117.148.129.6/PLTV/88888888/224/3221231477/index.m3u8
+红色轮播台,http://117.148.129.6/PLTV/88888888/224/3221232068/index.m3u8
+红色轮播台,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232068/1.m3u8
+少林真功夫,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231688/1.m3u8
+TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
+乡村振兴频道,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232023/1.m3u8
+特色-东北人是有点喜剧天赋,http://117.148.129.6/PLTV/88888888/224/3221231624/index.m3u8
+特色-运动员也可以演戏,http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
+未知,http://117.148.129.6/PLTV/88888888/224/3221232260/index.m3u8
 
 
-体育频道,#genre#
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-魅力足球,http://113.64.147.72:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.96:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.144:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.191:808/hls/50/index.m3u8
-劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-广东体育,http://113.64.147.72:808/hls/18/index.m3u8
-广东体育,http://113.64.147.96:808/hls/18/index.m3u8
-广东体育,http://113.64.147.144:808/hls/18/index.m3u8
-广东体育,http://113.64.147.191:808/hls/18/index.m3u8
-纬来体育台,rtmp://59.124.75.150/sat/tv721
-纬来体育台,rtmp://59.124.75.147/sat/tv721
-纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
-纬来体育台,rtmp://59.124.75.147:1935/sat/tv721
-博斯网球台,rtmp://59.124.75.150/sat/md011
-博斯网球台,rtmp://59.124.75.147/sat/md011
-ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
-ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
-ELEVEN体育一台,rtmp://59.124.75.150:1935/sat/tv731
-ELEVEN体育一台,rtmp://59.124.75.147:1935/sat/tv731
-ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
-ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
-ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
-ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
+
 
 
 少儿频道,#genre#
@@ -616,47 +667,6 @@ WTT轮播,http://117.148.129.6/PLTV/88888888/224/3221233505/index.m3u8
 
 
 
-咪咕轮播,#genre#
-军事迷必看大片
-体育影视佳作,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231679/1.m3u8
-温情催泪影院
-爱国影展
-美国电影时刻,http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
-高能烧脑时刻[1280*720],http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
-约你看韩影
-风华上海[1280*720],http://117.148.129.6/PLTV/88888888/224/3221231645/index.m3u8
-纯爱文艺影院,http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
-印度神片
-泰想看电影,http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
-影像俄罗斯,http://117.148.129.6/PLTV/88888888/224/3221232143/index.m3u8
-影像俄罗斯,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232143/1.m3u8
-吴京作品集
-周润发影院,http://117.148.129.6/PLTV/88888888/224/3221231709/index.m3u8
-周星驰影院
-解压影院,http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
-成龙作品集
-刘德华影院,http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
-张国荣影院,http://117.148.129.6/PLTV/88888888/224/3221231790/index.m3u8
-喜剧联盟,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231621/1.m3u8
-试胆大会
-新片放映厅
-爆款动画电影
-科幻电影,http://117.148.129.6/PLTV/88888888/224/3221232135/index.m3u8
-科幻电影,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232135/1.m3u8
-高能烧脑时刻,http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
-高清大片
-僵尸剧场
-军旅剧场,http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
-红色谍战剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231627/1.m3u8
-金庸频道,http://117.148.129.6/PLTV/88888888/224/3221231477/index.m3u8
-红色轮播台,http://117.148.129.6/PLTV/88888888/224/3221232068/index.m3u8
-红色轮播台,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232068/1.m3u8
-少林真功夫,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231688/1.m3u8
-TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
-乡村振兴频道,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232023/1.m3u8
-特色-东北人是有点喜剧天赋,http://117.148.129.6/PLTV/88888888/224/3221231624/index.m3u8
-特色-运动员也可以演戏,http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
-未知,http://117.148.129.6/PLTV/88888888/224/3221232260/index.m3u8
 
 
 斗虎轮播,#genre#
