@@ -1,9 +1,9 @@
 {
     "author": "Yuhe",
     "ua": "",
-    "homeUrl": "http://jrkan365.com/",
+    //"homeUrl": "http://jrkan365.com/",
     //"homeUrl": "http://jrsbxj.com/",
-    //"homeUrl": "http://jrsyyds.com/",
+    "homeUrl": "http://jrsyyds.com/",
     
     "cateManual": {
         "赛事列表": "1"
@@ -25,7 +25,7 @@
     "homeVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text(),'')",
 	"home": "Yuhe",
 	// 分类页地址 {cateId} 分类id {catePg} 当前页
-    "cateUrl": "http://jrkan365.com/",
+    "cateUrl": "http://jrsyyds.com/",
 	  // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//ul[@data-stype='zqlq']",
     //"cateVodName": "/li[@class='lab_events']/span/text()",
@@ -81,7 +81,7 @@
     //"playUa": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36", 
     //"playUa": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
 	
-    "searchUrl": "http://jrkan365.com?key={wd}",
+    "searchUrl": "http://jrsyyds.com?key={wd}",
     "scVodNode": "//div[@class='play_xg']/li",
     "scVodName": "//div[@class='name']/a/@title",
     "scVodId": "//div[@class='name']/a/@href",
