@@ -382,8 +382,7 @@ IPTV经典电影,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw
 #南京移动源（稳）
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-极品汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+MAX极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -393,6 +392,7 @@ IPTV经典电影,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 
 #江西茁壮源
 全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
