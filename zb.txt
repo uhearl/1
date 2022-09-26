@@ -133,10 +133,6 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 陕西卫视,http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-陕西卫视,http://122.228.87.30:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-陕西卫视,http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-陕西卫视,http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-陕西卫视,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 
 #江西茁壮稳定源（稳)
 湖南卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000140&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
@@ -230,10 +226,6 @@ CCTV16,http://171.108.239.13:8181/tsfile/live/1042_1.m3u8
 凤凰香港,http://113.64.147.96:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.144:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.191:808/hls/34/index.m3u8
-翡翠台,https://pull-l3-cny.douyincdn.com/live/4ec316d851a9c7c0beeffa22c3734fcd.flv
-中视,http://pull-rtmp-l6.ixigua.com/live/216e77bf6d7c6ab975524a941db51979.flv
-民视,http://pull-rtmp-l6.ixigua.com/live/6a08f93459bfe9e1bf0843baffe82eb8.flv
-华视，http://pull-rtmp-l6.ixigua.com/live/f72f33347533c1ecb5a7671b800d8cf5.flv
 中视,rtmp://59.124.75.147/sat/tv091
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.147:1935/sat/tv091
