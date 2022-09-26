@@ -591,7 +591,54 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 
 
 
-
+测试自动接口频道,#genre#
+江苏卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jsws
+浙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=zjws
+东南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dnws
+江西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jxws
+安徽卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=ahws
+湖北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hubws
+湖南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hunws
+广西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gxws
+贵州卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gzws
+四川卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=scws
+重庆卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cqws
+甘肃卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gsws
+河北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hbws
+天津卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tjws
+辽宁卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lnws
+吉林卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jlws
+黑龙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hljws
+金鹰纪实,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=jyjs
+魅力足球,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
+中国电影,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=zgdy
+CHC家庭影院,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcjtyy
+CHC动作电影,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcdzdy
+CHC高清电影,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=chcgqdy
+东森电影,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsdy
+东森洋片,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
+龙祥时代,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
+东森新闻,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dsxw
+戏剧,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=xj
+好莱坞电影,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hlwdy
+AXN,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=axn
+网络电影,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=wldy
+回旋镖动画,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hxbdh
+Eleven Sports 1,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
+Eleven Sports 2,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
+Z频道,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=zpd
+韩国娱乐台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hgylt
+动物星球,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dwxq
+澳门莲花,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=amlh
+天映经典,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tyjd
+私人影院,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sryy
+翡翠台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
+TVB星河,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=tvbxh
+无线财经,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tvbcj
+凤凰中文,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzw
+凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
+凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
+星空卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=xkws
 
 少儿频道,#genre#
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
