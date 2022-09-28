@@ -54,17 +54,15 @@ http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",世界地理
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",风云音乐
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",兵器科技
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",风云足球
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",高尔夫网球
-http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
 
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -147,21 +145,21 @@ http://113.64.147.130:808/hls/67/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://113.64.147.150:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-rtmp://59.124.75.147/sat/tv091
+rtmp://59.124.75.150/sat/tv091
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
-rtmp://59.124.75.147/sat/tv051
+rtmp://59.124.75.150/sat/tv051
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
-rtmp://59.124.75.147/sat/tv111
+rtmp://59.124.75.150/sat/tv111
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
-rtmp://59.124.75.147/sat/tv071
+rtmp://59.124.75.150/sat/tv071
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育台
-rtmp://59.124.75.147/sat/tv721
+rtmp://59.124.75.150/sat/tv721
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="港澳台",纬来育乐台
-rtmp://59.124.75.147/sat/tv701
+rtmp://59.124.75.150/sat/tv701
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本台
 rtmp://59.124.75.150/sat/tv771
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
@@ -171,21 +169,10 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐台
 rtmp://59.124.75.150/sat/tv421
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
-rtmp://59.124.75.147/sat/tv331
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
-rtmp://59.124.75.150/sat/tv331
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 rtmp://59.124.75.147:1935/sat/tv331
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
-rtmp://59.124.75.150:1935/sat/tv331
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台
-rtmp://59.124.75.147/sat/tv571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲卫视
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",东森美洲财经
-http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",MOMO综合
-rtmp://59.124.75.147/sat/tv761
+rtmp://59.124.75.147:1935/sat/tv571
+
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育",CCTV5体育
 http://live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育",CCTV5+体育赛事
@@ -238,7 +225,7 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="数字电视",东方影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="数字电视",上海纪实
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231612/1.m3u8
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字电视",黑莓动画
 http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="数字电视",黑莓电影
@@ -263,124 +250,81 @@ http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
 http://39.135.34.144:8080/000000001000/1000000001000012884/index.m3u8?test/PLTV/=02
 #EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="数字电视",超级综艺
 http://39.135.34.144:8080/000000001000/1000000001000025771/index.m3u8?test/PLTV/=02
-#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="数字电视",超级电视剧
-http://111.13.42.234/PLTV/88888888/224/3221226368/1.m3u8
 #EXTINF:-1,tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="影视轮播",红色谍战剧场
 http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231627/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/红色轮播台.png" group-title="影视轮播",红色轮播台
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232068/1.m3u8
+http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232068/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乡村振兴.png" group-title="影视轮播",乡村振兴
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232023/1.m3u8
+http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221232023/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/科幻电影.png" group-title="影视轮播",科幻电影
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232135/1.m3u8
+http://117.148.129.6/PLTV/88888888/224/3221232135/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/影像俄罗斯.png" group-title="影视轮播",影像俄罗斯
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232143/1.m3u8
-#EXTINF:-1,tvg-id="TVB剧场" tvg-name="TVB剧场" tvg-logo="https://epg.112114.xyz/logo/TVB剧场.png" group-title="港澳台",TVB剧场
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
+http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232260/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱国影展.png" group-title="影视轮播",爱国影展
 http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231628/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纯爱文艺影院.png" group-title="影视轮播",纯爱文艺影院
-http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纯爱文艺影院.png" group-title="影视轮播",纯爱文艺影院
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/1.m3u8
 #EXTINF:-1,tvg-id="盗墓方法论" tvg-name="盗墓方法论" tvg-logo="https://epg.112114.xyz/logo/盗墓方法论.png" group-title="影视轮播",盗墓方法论
 http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/1.m3u8
-#EXTINF:-1,tvg-id="高能烧脑时刻" tvg-name="高能烧脑时刻" tvg-logo="https://epg.112114.xyz/logo/高能烧脑时刻.png" group-title="影视轮播",高能烧脑时刻
-http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/跟着电影去旅行.png" group-title="影视轮播",跟着电影去旅行
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232426/1.m3u8
 #EXTINF:-1,tvg-id="古龙作品集" tvg-name="古龙作品集" tvg-logo="https://epg.112114.xyz/logo/古龙作品集.png" group-title="影视轮播",古龙作品集
 http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231657/1.m3u8
-#EXTINF:-1,tvg-id="解压影院" tvg-name="解压影院" tvg-logo="https://epg.112114.xyz/logo/解压影院.png" group-title="影视轮播",解压影院
-http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
-#EXTINF:-1,tvg-id="解压影院" tvg-name="解压影院" tvg-logo="https://epg.112114.xyz/logo/解压影院.png" group-title="影视轮播",解压影院
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231583/1.m3u8
 #EXTINF:-1,tvg-id="金庸频道" tvg-name="金庸频道" tvg-logo="https://epg.112114.xyz/logo/金庸频道.png" group-title="影视轮播",金庸频道
 http://117.148.129.6/PLTV/88888888/224/3221231477/index.m3u8
-#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="影视轮播",军旅剧场
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/军事迷必看大片.png" group-title="影视轮播",军事迷必看大片
 http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/1.m3u8
 #EXTINF:-1,tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影院.png" group-title="影视轮播",刘德华影院
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/1.m3u8
+http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/美国电影时刻.png" group-title="影视轮播",美国电影时刻
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231787/1.m3u8
+http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰想看电影.png" group-title="影视轮播",泰想看电影
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231763/1.m3u8
+http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/体育影视佳作.png" group-title="影视轮播",体育影视佳作
 http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231679/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/温情催泪影院.png" group-title="影视轮播",温情催泪影院
 http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231699/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/文艺娱乐.png" group-title="影视轮播",文艺娱乐
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231570/1.m3u8
+
 #EXTINF:-1,tvg-id="吴京作品集" tvg-name="吴京作品集" tvg-logo="https://epg.112114.xyz/logo/吴京作品集.png" group-title="影视轮播",吴京作品集
 http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/1.m3u8
-#EXTINF:-1,tvg-id="喜剧联盟" tvg-name="喜剧联盟" tvg-logo="https://epg.112114.xyz/logo/喜剧联盟.png" group-title="影视轮播",喜剧联盟
-http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231621/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/印度神片.png" group-title="影视轮播",印度神片
-http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/运动员也可以演戏.png" group-title="影视轮播",运动员也可以演戏
-http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
-#EXTINF:-1,tvg-id="张国荣影院" tvg-name="张国荣影院" tvg-logo="https://epg.112114.xyz/logo/张国荣影院.png" group-title="影视轮播",张国荣影院
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231790/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/致敬英雄.png" group-title="影视轮播",致敬英雄
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231516/1.m3u8
-#EXTINF:-1,tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影院.png" group-title="影视轮播",周润发影院
-http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K影院.png" group-title="影视轮播",4k影院
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大秦帝国.png" group-title="影视轮播",大秦帝国
-http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/好先生.png" group-title="影视轮播",好先生
-http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/炊事班的故事.png" group-title="影视轮播",炊事班的故事
-http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/民兵葛二蛋.png" group-title="影视轮播",民兵葛二蛋
-http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三国演义.png" group-title="影视轮播",三国演义
-http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/庆余年.png" group-title="影视轮播",庆余年
-http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芈月传.png" group-title="影视轮播",芈月传
-http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/医馆笑传.png" group-title="影视轮播",医馆笑传
-http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="https://epg.112114.xyz/logo/神探狄仁杰.png" group-title="影视轮播",神探狄仁杰
-http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/活佛济公.png" group-title="影视轮播",活佛济公
-http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/今晚80后脱口秀.png" group-title="影视轮播",今晚80后脱口秀
 http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="笑傲江湖" tvg-name="笑傲江湖" tvg-logo="https://epg.112114.xyz/logo/笑傲江湖.png" group-title="影视轮播",笑傲江湖综艺
 http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/春晚小品.png" group-title="影视轮播",春晚小品
-http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动画相声.png" group-title="影视轮播",动画相声
-http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/家有儿女.png" group-title="影视轮播",家有儿女
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/漫威宇宙电影.png" group-title="影视轮播",漫威宇宙电影
-http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/冰与火之歌.png" group-title="影视轮播",冰与火之歌
 http://maomao.kandiantv.cn/douyu1.php?id=8945323
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大秦帝国.png" group-title="影视轮播",大秦帝国
+http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/好先生.png" group-title="影视轮播",好先生
+http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/庆余年.png" group-title="影视轮播",庆余年
+http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芈月传.png" group-title="影视轮播",芈月传
+http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯剧场1.png" group-title="影视轮播",鬼吹灯剧场1
 http://maomao.kandiantv.cn/douyu1.php?id=9292503
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/鬼吹灯剧场2.png" group-title="影视轮播",鬼吹灯剧场2
 http://maomao.kandiantv.cn/douyu1.php?id=7701735
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/战争剧场.png" group-title="影视轮播",战争剧场
-http://maomao.kandiantv.cn/douyu1.php?id=4396972
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/哈利波特.png" group-title="影视轮播",哈利波特
-http://maomao.kandiantv.cn/douyu1.php?id=8814650
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/喜剧经典.png" group-title="影视轮播",喜剧经典
 http://maomao.kandiantv.cn/douyu1.php?id=9650887
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三国演义.png" group-title="影视轮播",三国演义
+http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/活佛济公.png" group-title="影视轮播",活佛济公
+http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/春晚小品.png" group-title="影视轮播",春晚小品
+http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动画相声.png" group-title="影视轮播",动画相声
+http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/漫威宇宙电影.png" group-title="影视轮播",漫威宇宙电影
+http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/哈利波特.png" group-title="影视轮播",哈利波特
+http://maomao.kandiantv.cn/douyu1.php?id=8814650
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/漫威影片.png" group-title="影视轮播",漫威影片
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沈腾.png" group-title="影视轮播",沈腾
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/变种人电影.png" group-title="影视轮播",变种人电影
 http://epg.112114.xyz/douyu/9651304
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/贝爷影厅2.png" group-title="影视轮播",贝爷影厅2
 http://maomao.kandiantv.cn/douyu1.php?id=36337
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/港式恐怖.png" group-title="影视轮播",港式恐怖
-http://maomao.kandiantv.cn/douyu1.php?id=3637726
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/功夫港片.png" group-title="影视轮播",功夫港片
 http://maomao.kandiantv.cn/douyu1.php?id=3637765
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/港片经典.png" group-title="影视轮播",港片经典
@@ -391,54 +335,12 @@ http://maomao.kandiantv.cn/douyu1.php?id=2436390
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/周星驰粤语.png" group-title="影视轮播",周星驰-粤语
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="周星驰影院" tvg-name="周星驰影院" tvg-logo="https://epg.112114.xyz/logo/周星驰影院.png" group-title="影视轮播",周星驰
-http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/吴孟达.png" group-title="影视轮播",吴孟达
-http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="影视轮播",林正英
-http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沈腾.png" group-title="影视轮播",沈腾
-http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/甄子丹.png" group-title="影视轮播",甄子丹
-http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png" group-title="影视轮播",成龙
-http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/李连杰.png" group-title="影视轮播",李连杰
-http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影院.png" group-title="影视轮播",周润发
-http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影院.png" group-title="影视轮播",刘德华
-http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/洪金宝.png" group-title="影视轮播",洪金宝
-http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="吴京作品集" tvg-name="吴京作品集" tvg-logo="https://epg.112114.xyz/logo/吴京作品集.png" group-title="影视轮播",吴京
-http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黄渤.png" group-title="影视轮播",黄渤
-http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/刘家辉.png" group-title="影视轮播",刘家辉
-http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咏春系列.png" group-title="影视轮播",咏春系列
-http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黑帮系列.png" group-title="影视轮播",黑帮系列
-http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/古墓系列.png" group-title="影视轮播",古墓系列
 http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/赛车系列.png" group-title="影视轮播",赛车系列
-http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/警匪系列.png" group-title="影视轮播",警匪系列
-http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="影视轮播",中国功夫
-http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/喜剧系列.png" group-title="影视轮播",喜剧系列
-http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动作大片.png" group-title="影视轮播",动作大片
 http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/玄幻系列.png" group-title="影视轮播",玄幻系列
 http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/古装武侠.png" group-title="影视轮播",古装武侠
-http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香港女神系列.png" group-title="影视轮播",香港女神系列
-http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/王晶导演.png" group-title="影视轮播",王晶导演
 http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金庸武侠系列.png" group-title="影视轮播",金庸武侠系列
