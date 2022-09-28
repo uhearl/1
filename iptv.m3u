@@ -134,18 +134,18 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000287&playtype=live
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-##EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://113.64.147.19:808/hls/34/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://113.64.147.95:808/hls/34/index.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://113.64.147.53:808/hls/67/index.m3u8
+http://113.64.147.100:808/hls/67/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://113.64.147.77:808/hls/67/index.m3u8
+http://113.64.147.130:808/hls/67/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://113.64.147.112:808/hls/67/index.m3u8
+http://113.64.147.150:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
 rtmp://59.124.75.147/sat/tv091
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
