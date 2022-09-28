@@ -562,11 +562,6 @@ TVBS欢乐台,rtmp://59.124.75.145:1935/sat/tv421
 靖天国际,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b9
 靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
 
-HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
-HBO强档巨献,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
-HBO原创巨献,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
-HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-
 LSTime电影台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=lxsd
 LSTime电影台,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
 LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lxsd
@@ -591,6 +586,8 @@ Z频道,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=zpd
 纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
 ELEVEN体育一台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
 ELEVEN体育二台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
+ELEVEN体育一台,P2p://ns1.hellotvvod.com:9906/9d678fec5e9445a986c91c547c6765a8
+ELEVEN体育二台,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.147:1935/sat/tv731
@@ -604,6 +601,10 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 爱尔达体育1,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
 爱尔达体育2,P2p://ns1.hellotvvod.com:9906/8066b1254d6f4ad697f4cb6e770ae917
 爱尔达体育3,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
+广东体育,P2p://ns1.hellotvvod.com:9906/0b3bac2e90b6403ca5ca1d2da76a55e8
+五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
+智林体育台,P2p://ns1.hellotvvod.com:9906/508d33bf8ed0474aab39b650120509a6
+
 
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -1073,15 +1074,23 @@ WWE,P2p://ns1.hellotvvod.com:9906/8c03032c5ffe4e78aecbd70784aee0d9
 
 
 国外测试,#genre#
-BBC Earth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
-KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-NHK World Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+BBCEarth,P2p://ns1.hellotvvod.com:9906/5607bc7a53bc421892cd3e58d2694365
+BBCLifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
+BBCWorldNews,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
+BBCWorldNews,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
+BBCEarth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
+Discovery科学,P2p://ns1.hellotvvod.com:9906/0da5263fa35e4e558deb22b305f1aeae
+HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
+HBO强档巨献,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
+HBO原创巨献,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
+HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
+KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 UNWebTV.us,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-NHK CHINA,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg,http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
-NBC News
 Fuji TV,https://fujitv2.mov3.co/hls/fujitv.m3u8
 New Japan Pro Wrestling World ,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 NHK General TV,https://nhk2.mov3.co/hls/nhk.m3u8
