@@ -107,51 +107,12 @@ CCTV5+,http://39.135.34.144:8080/000000001000/1000000001000020505/index.m3u8?tes
 
 
 
-#咪咕中央源（稳）
+#咪咕源（需要重新扫）
 
-CCTV1,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/1.m3u8
-CCTV1,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/1.m3u8
-CCTV2,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/1.m3u8
-CCTV3,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/1.m3u8
-CCTV4,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/1.m3u8
-CCTV5,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231702/1.m3u8
-CCTV6,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/1.m3u8
-CCTV7,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231633/1.m3u8
-CCTV8,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/1.m3u8
-CCTV10,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221232492/1.m3u8
-CCTV11,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/1.m3u8
-CCTV12,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/1.m3u8
-CCTV13,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/1.m3u8
-CCTV15,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231693/1.m3u8
-CCTV16,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221233442/1.m3u8
-CCTV16,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/1.m3u8
-CCTV17,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/1.m3u8
-CCTV4K,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8
-CCTV5+,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/1.m3u8
-CCTV4AME,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/1.m3u8
-CCTV4EUO,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/1.m3u8
-CCTV1,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231468/1.m3u8
-CCTV3,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231682/1.m3u8
-CCTV5,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231702/1.m3u8
-CCTV6,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231724/1.m3u8
-CCTV7,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231633/1.m3u8
-CCTV10,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232492/1.m3u8
-CCTV17,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231772/1.m3u8
-CCTV4EUO,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231615/1.m3u8
-CCTV1,http://117.148.129.6/PLTV/88888888/224/3221230242/index.m3u8
-CCTV1,http://117.148.129.6/PLTV/88888888/224/3221231468/index.m3u8
-CCTV1,http://117.148.129.6/PLTV/88888888/224/3221231471/index.m3u8
-CCTV2,http://117.148.129.6/PLTV/88888888/224/3221231678/index.m3u8
-CCTV4,http://117.148.129.6/PLTV/88888888/224/3221231726/index.m3u8
-CCTV5,http://117.148.129.6/PLTV/88888888/224/3221231702/index.m3u8
-CCTV6,http://117.148.129.6/PLTV/88888888/224/3221231724/index.m3u8
-CCTV7,http://117.148.129.6/PLTV/88888888/224/3221231633/index.m3u8
-CCTV8,http://117.148.129.6/PLTV/88888888/224/3221231694/index.m3u8
-CCTV11,http://117.148.129.6/PLTV/88888888/224/3221231711/index.m3u8
-CCTV13,http://117.148.129.6/PLTV/88888888/224/3221231636/index.m3u8
-CCTV15,http://117.148.129.6/PLTV/88888888/224/3221231693/index.m3u8
-CCTV4AME,http://117.148.129.6/PLTV/88888888/224/3221231654/index.m3u8
-CCTV4EUO,http://117.148.129.6/PLTV/88888888/224/3221231615/index.m3u8
+CCTV1http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/1.m3u8
+
+CCTV1http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231468/1.m3u8
+CCTV8http://117.148.129.6/PLTV/88888888/224/3221231694/index.m3u8
 
 #P2P源
 CCTV1,P2p://ns1.hellotvvod.com:9906/f05a9b0e04e2405ca1d0bfa662e0642f
@@ -202,26 +163,6 @@ CCTV16,P2p://ns1.hellotvvod.com:9906/d5e1e5f3c1794a28984f903e4c510cab
 CCTV1,http://111.13.42.234/PLTV/88888888/224/3221226431/1.m3u8
 CCTV13,http://111.13.42.234/PLTV/88888888/224/3221226316/1.m3u8
 CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
-
-#p2p
-CCTV1,P2p://ns1.hellotvvod.com:9906/f05a9b0e04e2405ca1d0bfa662e0642f
-CCTV2,P2p://ns1.hellotvvod.com:9906/e3db691c7dc54d9490c7f528ef18333f
-CCTV3,P2p://ns1.hellotvvod.com:9906/ff200967df174b499af34808ef97d65c
-CCTV4,P2p://ns1.hellotvvod.com:9906/817529082f324158bb223836c418412b
-CCTV5,P2p://ns1.hellotvvod.com:9906/89f3669a0a6647b48beba61d3d856de2
-CCTV5+,P2p://ns1.hellotvvod.com:9906/ce68e05328be401592fe7bb9b5cef888
-CCTV6,P2p://ns1.hellotvvod.com:9906/12cbd1f4ae6145baace7a055fd1f7b20
-CCTV7,P2p://ns1.hellotvvod.com:9906/d235bc3707704e1f8da88ef59c0601c0
-CCTV8,P2p://ns1.hellotvvod.com:9906/dfd5fb42ce33425bb0f8764ef4d47449
-CCTV9,P2p://ns1.hellotvvod.com:9906/4aeeb9547def4f3d9336d1cc03da1aa2
-CCTV10,P2p://ns1.hellotvvod.com:9906/ce0bf81d0b00428a9199812b4b805009
-CCTV11,P2p://ns1.hellotvvod.com:9906/002390c4f72f452696e0d4efd2e110e2
-CCTV12,P2p://ns1.hellotvvod.com:9906/41e70e73c5eb46a29e352cef6dc716ff
-CCTV13,P2p://ns1.hellotvvod.com:9906/a04a98b42a6e48c1b01f609fdab9238c
-CCTV14,P2p://ns1.hellotvvod.com:9906/7effc1a9b0db410d9828cb00b2e3c981
-CCTV15,P2p://ns1.hellotvvod.com:9906/65ce6e9c97dc4a4c90a362b001e89442
-CCTV16,P2p://ns1.hellotvvod.com:9906/d5e1e5f3c1794a28984f903e4c510cab
-CGTN,P2p://ns1.hellotvvod.com:9906/21a9c043ba7243f09549c1041da51a2a
 
 
 
@@ -502,9 +443,6 @@ J2,P2p://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
 
 
 
-
-
-
 台湾有线,#genre#
 东森综合台,P2p://ns1.hellotvvod.com:9906/5dc361f0f7954841ad9e408dc8946578
 东森新闻台,P2p://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
@@ -760,7 +698,6 @@ NewTV,#genre#
 
 
 咪咕轮播,#genre#
-红色谍战剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231627/1.m3u8
 红色轮播台,http://117.148.129.6/PLTV/88888888/224/3221232068/index.m3u8
 红色轮播台,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232068/1.m3u8
 红色轮播台,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232068/1.m3u8
@@ -782,39 +719,6 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 盗墓方法论,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/1.m3u8
 高能烧脑时刻,http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
 跟着电影去旅行,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232426/1.m3u8
-古龙作品集,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231657/1.m3u8
-解压影院,http://117.148.129.6/PLTV/88888888/224/3221231583/index.m3u8
-解压影院,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231583/1.m3u8
-金庸频道,http://117.148.129.6/PLTV/88888888/224/3221231477/index.m3u8
-军旅剧场,http://117.148.129.6/PLTV/88888888/224/3221231585/index.m3u8
-军旅剧场,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/1.m3u8
-军事迷必看大片,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/1.m3u8
-刘德华影院,http://117.148.129.6/PLTV/88888888/224/3221231757/index.m3u8
-刘德华影院,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/1.m3u8
-美国电影时刻,http://117.148.129.6/PLTV/88888888/224/3221231787/index.m3u8
-美国电影时刻,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231787/1.m3u8
-泰想看电影,http://117.148.129.6/PLTV/88888888/224/3221231763/index.m3u8
-泰想看电影,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231763/1.m3u8
-体育影视佳作,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231679/1.m3u8
-体育影视佳作,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231679/1.m3u8
-温情催泪影院,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231699/1.m3u8
-文艺娱乐,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231570/1.m3u8
-吴京作品集,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/1.m3u8
-喜剧联盟,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/1.m3u8
-喜剧联盟,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231621/1.m3u8
-印度神片,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/1.m3u8
-运动员也可以演戏,http://117.148.129.6/PLTV/88888888/224/3221231570/index.m3u8
-张国荣影院,http://117.148.129.6/PLTV/88888888/224/3221231790/index.m3u8
-张国荣影院,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231790/1.m3u8
-致敬英雄,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231516/1.m3u8
-周润发影院,http://117.148.129.6/PLTV/88888888/224/3221231709/index.m3u8
-周润发影院,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/1.m3u8
-成龙作品集,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232947/1.m3u8
-怀旧老片,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232971/1.m3u8
-新片放映厅,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221232965/1.m3u8
-张国荣影院,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221232692/1.m3u8
-周星驰影院,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221232963/1.m3u8
-高清大片,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231498/1.m3u8
 
 少儿频道,#genre#
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
