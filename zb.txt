@@ -223,7 +223,7 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 宁夏卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226147/iptv112765.smil
 青海卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226090/000000000jdd.smil
 厦门卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil
-陕西卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226453/iptv127270.smil
+陕西卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
 新疆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226149/iptv147985.smil
 云南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226455/iptv127269.smil
 
@@ -592,6 +592,7 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 广东体育,P2p://ns1.hellotvvod.com:9906/0b3bac2e90b6403ca5ca1d2da76a55e8
 五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
 智林体育台,P2p://ns1.hellotvvod.com:9906/508d33bf8ed0474aab39b650120509a6
+深圳体育,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
 
 
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -851,35 +852,13 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 百事通体育2,http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
 百事通体育3,http://111.40.196.38/PLTV/88888888/224/3221225733/index.m3u8
 百事通体育4,http://111.40.196.38/PLTV/88888888/224/3221225739/index.m3u8
-百事通体育5,http://111.40.196.38/PLTV/88888888/224/3221225769/index.m3u8
-咪咕体育1,http://117.148.129.6/PLTV/88888888/224/3221233017/index.m3u8
-咪咕体育2,http://117.148.129.6/PLTV/88888888/224/3221233041/index.m3u8
-咪咕体育3,http://117.148.129.6/PLTV/88888888/224/3221233067/index.m3u8
-咪咕体育4,http://117.148.129.6/PLTV/88888888/224/3221233089/index.m3u8
-咪咕体育4,http://117.148.129.6/PLTV/88888888/224/3221233109/index.m3u8
-咪咕体育5,http://117.148.129.6/PLTV/88888888/224/3221233092/index.m3u8
-咪咕体育6,http://117.148.129.6/PLTV/88888888/224/3221233104/index.m3u8
-咪咕体育7,http://117.148.129.6/PLTV/88888888/224/3221233332/index.m3u8
-咪咕体育8,http://117.148.129.6/PLTV/88888888/224/3221233365/index.m3u8
-咪咕体育9,http://117.148.129.6/PLTV/88888888/224/3221233368/index.m3u8
-咪咕体育10,http://117.148.129.6/PLTV/88888888/224/3221233415/index.m3u8
-咪咕体育11,http://117.148.129.6/PLTV/88888888/224/3221233425/index.m3u8
-咪咕体育12,http://117.148.129.6/PLTV/88888888/224/3221233443/index.m3u8
-咪咕体育13,http://117.148.129.6/PLTV/88888888/224/3221233472/index.m3u8
-咪咕体育14,http://117.148.129.6/PLTV/88888888/224/3221233484/index.m3u8
-咪咕体育15,http://117.148.129.6/PLTV/88888888/224/3221233506/index.m3u8
-咪咕体育16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8
-咪咕体育16,http://117.148.129.6/PLTV/88888888/224/3221233509/index.m3u8
-咪咕体育17,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
-咪咕体育17,http://117.148.129.6/PLTV/88888888/224/3221233512/index.m3u8
-咪咕体育18,http://117.148.129.6/PLTV/88888888/224/3221233541/index.m3u8
-咪咕体育19,http://117.148.129.6/PLTV/88888888/224/3221232590/index.m3u8
-咪咕体育20,http://117.148.129.6/PLTV/88888888/224/3221233791/index.m3u8
-咪咕体育21,http://117.148.129.6/PLTV/88888888/224/3221233793/index.m3u8
-咪咕体育22,http://117.148.129.6/PLTV/88888888/224/3221233857/index.m3u8
-咪咕体育22,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233857/index.m3u8
-咪咕体育23,http://117.148.129.6/PLTV/88888888/224/3221233860/index.m3u8
-咪咕体育23,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233860/index.m3u8
+咪咕足球1[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233506/index.m3u8
+咪咕足球2[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8
+咪咕足球3[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
+咪咕足球4[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233527/index.m3u8
+咪咕足球5[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233541/index.m3u8
+咪咕足球6[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233857/index.m3u8
+咪咕足球7[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233860/index.m3u8
 
 冬奥信号1,http://117.148.129.6/PLTV/88888888/224/3221233508/index.m3u8
 冬奥信号2,http://117.148.129.6/PLTV/88888888/224/3221232984/index.m3u8
@@ -921,19 +900,32 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 
 
 国外测试,#genre#
-BBCEarth,P2p://ns1.hellotvvod.com:9906/5607bc7a53bc421892cd3e58d2694365
-BBCLifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
-BBCWorldNews,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
-BBCWorldNews,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
+BBCNews,http://myott.top/stream/DT6QU63K5VX/85.m3u8
+BBCWorldNews,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254246
 BBCEarth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CineMan-Marvel,http://myott.top/stream/DT6QU63K5VX/354.m3u8
+CineMan-Comedy,http://myott.top/stream/DT6QU63K5VX/356.m3u8
+CNN,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30017
+SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69001
+NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99086
+FOX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254270
+FOX,http://myott.top/stream/DT6QU63K5VX/121.m3u8
+FOXSPorts,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69098
+AMC,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17377
+CINEMAX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
+Boomerang,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
+
+BBCLifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
+BBCEarth,P2p://ns1.hellotvvod.com:9906/5607bc7a53bc421892cd3e58d2694365
 Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
 Discovery科学,P2p://ns1.hellotvvod.com:9906/0da5263fa35e4e558deb22b305f1aeae
 HBOHD,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
 HBOHits,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 HBOSignature,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
 HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-AMC,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
-CINEMAX,P2p://ns1.hellotvvod.com:9906/8ef5dc97e25645be8d4e303cb84b15e1
+
 DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
 France24,P2p://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
 tvN Movies HD,P2p://ns1.hellotvvod.com:9906/9b3ba26f523643acb722559371c793fa
@@ -947,13 +939,12 @@ DMAX,P2p://ns1.hellotvvod.com:9906/f83cd21b6aa24f03be5364d3fe94082f
 LUXE TV,P2p://ns1.hellotvvod.com:9906/a2e0e3369be141cbb4a8aa47d5557535
 Love Nature,P2p://ns1.hellotvvod.com:9906/d2714ed99bdf4e8b86f7d214a8f65c31
 WWE,P2p://ns1.hellotvvod.com:9906/8c03032c5ffe4e78aecbd70784aee0d9
-FOX,P2p://ns1.hellotvvod.com:9906/6f5553f842d04b68954b8026f8b13854
 CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 Discovery,P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
 DREAMWORKS,P2p://ns1.hellotvvod.com:9906/b4c3db6c3578467793f2c0aa54ef255d
-Bloomberg TV,P2p://ns1.hellotvvod.com:9906/632982d0000488d3bbfb2844254860de
-Boomerang,P2p://ns1.hellotvvod.com:9906/e0b17b1609c74590b0bc778bd7535402
+
+
 NHK,P2p://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
 KIX,P2p://ns1.hellotvvod.com:9906/b126c8c43291421cb6522cc601a5b50a
 Animax,P2p://ns1.hellotvvod.com:9906/be96110bfb61424089f4799d0fd88e86
