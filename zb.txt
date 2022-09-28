@@ -352,17 +352,17 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
 凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
 翡翠台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
-凤凰中文,http://113.64.147.72:808/hls/32/index.m3u8
-凤凰中文,http://113.64.147.96:808/hls/32/index.m3u8
-凤凰中文,http://113.64.147.191:808/hls/32/index.m3u8
-凤凰资讯,http://113.64.147.72:808/hls/33/index.m3u8
-凤凰资讯,http://113.64.147.96:808/hls/33/index.m3u8
-凤凰资讯,http://113.64.147.191:808/hls/33/index.m3u8
-凤凰香港,http://113.64.147.72:808/hls/34/index.m3u8
-凤凰香港,http://113.64.147.96:808/hls/34/index.m3u8
-凤凰香港,http://113.64.147.191:808/hls/34/index.m3u8
-翡翠台,http://113.64.147.53:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.77:808/hls/67/index.m3u8
+凤凰中文,http://113.64.147.19:808/hls/32/index.m3u8
+凤凰中文,http://113.64.147.95:808/hls/32/index.m3u8
+凤凰中文,http://113.64.147.126:808/hls/32/index.m3u8
+凤凰资讯,http://113.64.147.19:808/hls/33/index.m3u8
+凤凰资讯,http://113.64.147.95:808/hls/33/index.m3u8
+凤凰资讯,http://113.64.147.126:808/hls/33/index.m3u8
+凤凰香港,http://113.64.147.19:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.95:808/hls/34/index.m3u8
+凤凰香港,http://113.64.147.126:808/hls/34/index.m3u8
+翡翠台,http://113.64.147.100:808/hls/67/index.m3u8
+翡翠台,http://113.64.147.130:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.112:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.129:808/hls/67/index.m3u8
 
@@ -463,17 +463,17 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 魅力足球,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
-魅力足球,http://113.64.147.72:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.96:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.191:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.19:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.95:808/hls/50/index.m3u8
+魅力足球,http://113.64.147.126:808/hls/50/index.m3u8
 魅力足球,http://113.64.147.129:808/hls/65/index.m3u8
 劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 深圳体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
 深圳体育,http://113.64.147.129:808/hls/70/index.m3u8
 广东体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
-广东体育,http://113.64.147.72:808/hls/18/index.m3u8
-广东体育,http://113.64.147.96:808/hls/18/index.m3u8
-广东体育,http://113.64.147.191:808/hls/18/index.m3u8
+广东体育,http://113.64.147.19:808/hls/18/index.m3u8
+广东体育,http://113.64.147.95:808/hls/18/index.m3u8
+广东体育,http://113.64.147.126:808/hls/18/index.m3u8
 
 
 数字频道,#genre#
@@ -518,10 +518,10 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=42000001
 魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 上海纪实,http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02
 上海纪实,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231612/1.m3u8
-上海纪实,http://113.64.147.72:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.96:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.19:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.95:808/hls/56/index.m3u8
 上海纪实,http://113.64.147.144:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.191:808/hls/56/index.m3u8
+上海纪实,http://113.64.147.126:808/hls/56/index.m3u8
 
 
 NewTV,#genre#
