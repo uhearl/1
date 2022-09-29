@@ -115,25 +115,6 @@ CCTV1http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/32212
 CCTV1http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231468/1.m3u8
 CCTV8http://117.148.129.6/PLTV/88888888/224/3221231694/index.m3u8
 
-#P2P源
-CCTV1,P2p://ns1.hellotvvod.com:9906/f05a9b0e04e2405ca1d0bfa662e0642f
-CCTV2,P2p://ns1.hellotvvod.com:9906/e3db691c7dc54d9490c7f528ef18333f
-CCTV3,P2p://ns1.hellotvvod.com:9906/ff200967df174b499af34808ef97d65c
-CCTV4,P2p://ns1.hellotvvod.com:9906/817529082f324158bb223836c418412b
-CCTV5,P2p://ns1.hellotvvod.com:9906/89f3669a0a6647b48beba61d3d856de2
-CCTV5+,P2p://ns1.hellotvvod.com:9906/ce68e05328be401592fe7bb9b5cef888
-CCTV6,P2p://ns1.hellotvvod.com:9906/12cbd1f4ae6145baace7a055fd1f7b20
-CCTV7,P2p://ns1.hellotvvod.com:9906/d235bc3707704e1f8da88ef59c0601c0
-CCTV8,P2p://ns1.hellotvvod.com:9906/dfd5fb42ce33425bb0f8764ef4d47449
-CCTV9,P2p://ns1.hellotvvod.com:9906/4aeeb9547def4f3d9336d1cc03da1aa2
-CCTV10,P2p://ns1.hellotvvod.com:9906/ce0bf81d0b00428a9199812b4b805009
-CCTV11,P2p://ns1.hellotvvod.com:9906/002390c4f72f452696e0d4efd2e110e2
-CCTV12,P2p://ns1.hellotvvod.com:9906/41e70e73c5eb46a29e352cef6dc716ff
-CCTV13,P2p://ns1.hellotvvod.com:9906/a04a98b42a6e48c1b01f609fdab9238c
-CCTV14,P2p://ns1.hellotvvod.com:9906/7effc1a9b0db410d9828cb00b2e3c981
-CCTV15,P2p://ns1.hellotvvod.com:9906/65ce6e9c97dc4a4c90a362b001e89442
-CCTV16,P2p://ns1.hellotvvod.com:9906/d5e1e5f3c1794a28984f903e4c510cab
-
 
 #网络找的
 兵器科技,http://111.20.33.70/PLTV/88888893/224/3221226975/index.m3u8
@@ -302,27 +283,6 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 贵州卫视,http://111.13.42.234/PLTV/88888888/224/3221226497/1.m3u8
 山东卫视,http://111.13.42.234/PLTV/88888888/224/3221226501/1.m3u8
 
-#P2P源
-北京卫视,P2p://ns1.hellotvvod.com:9906/bd93e25efe4c4867bae614fea79ac99f
-天津卫视,P2p://ns1.hellotvvod.com:9906/cbfbcce91ce34f8faeff39807794da84
-河北卫视,P2p://ns1.hellotvvod.com:9906/719f81fe5d3b471a8aa2fd0435b34a9d
-黑龙江卫视,P2p://ns1.hellotvvod.com:9906/d33925dc64da433eb657997ad3a40144
-辽宁卫视,P2p://ns1.hellotvvod.com:9906/ebdf201fade44016984efb43e6e298b1
-东方卫视,P2p://ns1.hellotvvod.com:9906/f73c45267042469b8de8dec06e1f1da4
-江苏卫视,P2p://ns1.hellotvvod.com:9906/822b1f5ae7bb42af9d5d13449d2f1dea
-浙江卫视,P2p://ns1.hellotvvod.com:9906/2978f6df34ab491ba52f7c30c73e92a9
-江西卫视,P2p://ns1.hellotvvod.com:9906/3a30a6d337ae43ab91475b4d2556fc99
-山东卫视,P2p://ns1.hellotvvod.com:9906/3e71e722d9ee498faeae14f30b13a518
-东南卫视,P2p://ns1.hellotvvod.com:9906/93a282d16e814c338fdcb27c366d1aad
-湖北卫视,P2p://ns1.hellotvvod.com:9906/9639d4f128ae48929efd795880a2ca32
-湖南卫视,P2p://ns1.hellotvvod.com:9906/5d6c9608f2a94eb7b6b4444e3e8a43ab
-深圳卫视,P2p://ns1.hellotvvod.com:9906/4b8a288db35747978a4a8ef57bf46f51
-广东卫视,P2p://ns1.hellotvvod.com:9906/998bcb14e7004fb897d0e11671cb6252
-广西卫视,P2p://ns1.hellotvvod.com:9906/0073a0fb866541a4964521a872ee342f
-重庆卫视,P2p://ns1.hellotvvod.com:9906/583f6dd7649a42b6bb5c1f9bdcad7a48
-云南卫视,P2p://ns1.hellotvvod.com:9906/c18e3854af7747a3ba81facb395f966c
-星空卫视,P2p://ns1.hellotvvod.com:9906/dfca96c3ea824d0ba4a29bab56408560
-
 #广东揭阳酒店源
 北京卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=bjws
 东方卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=dfws
@@ -376,7 +336,6 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 中视,P2p://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
 中视,P2p://ns1.hellotvvod.com:9906/336f7c4bbca1439098b6d0e2f3f3ad0d
 中视新闻,P2p://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
-中视经典,P2p://ns1.hellotvvod.com:9906/f1e89df30c8841e3bec492ab4f04620a
 
 华视,P2p://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
 华视,P2p://ns1.hellotvvod.com:9906/0c31946017884921bf3b2a86323128b1
@@ -389,7 +348,6 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 台视新闻台,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
 公视,P2p://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
 公视,P2p://ns1.hellotvvod.com:9906/a25ae6ff76874a558229e225d036bcb9
-公视三台,P2p://ns1.hellotvvod.com:9906/7ea63223e87b4dcf9768ae5544b719f6
 
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -414,20 +372,9 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 民视,rtmp://59.124.75.147:1935/sat/tv051
 民视,rtmp://59.124.75.150:1935/sat/tv051
 
-寰宇新闻,P2p://ns1.hellotvvod.com:9906/3daa7cb1507342abb8e7034205417060
-寰宇新闻,P2p://ns1.hellotvvod.com:9906/48760fbeb15a4544885642389194a66b
-
 
 
 台湾有线,#genre#
-东森综合台,P2p://ns1.hellotvvod.com:9906/5dc361f0f7954841ad9e408dc8946578
-东森新闻台,P2p://ns1.hellotvvod.com:9906/e911563d661b46258aa7f22df821c9e2
-东森新闻台,P2p://ns1.hellotvvod.com:9906/632ed03f000948aed0b1ac1d79cb6725
-东森财经新闻台,P2p://ns1.hellotvvod.com:9906/5dedafdba29a427697c11401faef1490
-东森戏剧台,P2p://ns1.hellotvvod.com:9906/23728f7cf94f4813b4c11a5b1dbe2fb4
-东森电影台,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
-东森洋片台,P2p://ns1.hellotvvod.com:9906/186ead8f2f664bebba3dea7945a8b1e2
-东森幼幼台,P2p://ns1.hellotvvod.com:9906/9839fadf1b99440eb80684c212a4fce4
 
 东森超视,rtmp://59.124.75.147/sat/tv331
 东森超视,rtmp://59.124.75.150/sat/tv331
@@ -447,22 +394,10 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 东森洋片台,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
 东森洋片台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dsyp
 
-三立台湾台,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
-三立都会台,P2p://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
-三立新闻台,P2p://ns1.hellotvvod.com:9906/3afd0637dfc94845a4d9b812378b5740
-三立iNEWS,P2p://ns1.hellotvvod.com:9906/14356bac5127458c88f2b8ae99284250
-三立综合台,P2p://ns1.hellotvvod.com:9906/7d75845766c74122a00bb8db224eda09
-三立戏剧台,P2p://ns1.hellotvvod.com:9906/dd38029edb0043ce8f85c2173180ee12
-三立台湾台,P2p://ns1.hellotvvod.com:9906/13f7086bad674a4d9d91f6b14471b719
 
 
 中天综合台,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
 中天新闻台,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
-
-TVBS,P2p://ns1.hellotvvod.com:9906/a7700e97b8c04fb4b2f6d2809d6d9b4a
-TVBS欢乐台,P2p://ns1.hellotvvod.com:9906/3d79ebc2dc894aa2855400677a2980bf
-TVBS新闻台,P2p://ns1.hellotvvod.com:9906/8222cff9be4d45dea17dcf500d9b4db9
-TVBS精采台,P2p://ns1.hellotvvod.com:9906/5583d625f44c42a08c787762d439a928
 
 TVBS,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5684849.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -475,15 +410,7 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 TVBS欢乐台,rtmp://59.124.75.154:1935/sat/tv421
 TVBS欢乐台,rtmp://59.124.75.145:1935/sat/tv421
 
-纬来综合台,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
-纬来戏剧台,P2p://ns1.hellotvvod.com:9906/8981f0b5f0ba4961b045da328dcf1bb3
-纬来电影台,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
-纬来育乐台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
 纬来体育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
-纬来日本台,P2p://ns1.hellotvvod.com:9906/64def45a52cb41b3ae5d24b60bb99e71
-纬来精采台,P2p://ns1.hellotvvod.com:9906/21d3d32898c044bc9c6a83bee8c37dde
-纬来日本台,P2p://ns1.hellotvvod.com:9906/0c0c2ab7ae03476a8c99374476a5c168
-
 纬来体育台,rtmp://59.124.75.147/sat/tv721
 纬来体育台,rtmp://59.124.75.150/sat/tv721
 纬来体育台,rtmp://59.124.75.147:1935/sat/tv721
@@ -517,8 +444,6 @@ AXN,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=axn
 纬来体育台,rtmp://59.124.75.150:1935/sat/tv721
 ELEVEN体育一台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty1
 ELEVEN体育二台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=11ty2
-ELEVEN体育一台,P2p://ns1.hellotvvod.com:9906/9d678fec5e9445a986c91c547c6765a8
-ELEVEN体育二台,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 ELEVEN体育一台,rtmp://59.124.75.147/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.150/sat/tv731
 ELEVEN体育一台,rtmp://59.124.75.147:1935/sat/tv731
@@ -527,16 +452,6 @@ ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育2,rtmp://59.124.75.138/sat/md051
-爱尔达体育3,rtmp://59.124.75.138/sat/md021
-爱尔达体育1,P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
-爱尔达体育2,P2p://ns1.hellotvvod.com:9906/00460e84f5ab4b8cbd639b859074cad6
-爱尔达体育1,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
-爱尔达体育2,P2p://ns1.hellotvvod.com:9906/8066b1254d6f4ad697f4cb6e770ae917
-爱尔达体育3,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
-广东体育,P2p://ns1.hellotvvod.com:9906/0b3bac2e90b6403ca5ca1d2da76a55e8
-五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
 深圳体育,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -555,8 +470,6 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 广东体育,http://113.64.147.126:808/hls/18/index.m3u8
 五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-天津体育,http://anyun-ship.com:8888/udp/225.1.1.122:5002
-山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 4K测试,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 百事通体育1,http://111.40.196.38/PLTV/88888888/224/3221225693/index.m3u8
 百事通体育2,http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
@@ -735,26 +648,7 @@ NewTV,#genre#
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-吴京,http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
-黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
 喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 篮球纪录片,http://maomao.kandiantv.cn/douyu1.php?id=8434598
@@ -800,7 +694,7 @@ NewTV,#genre#
 粤语电影,http://epg.112114.xyz/douyu/6566671
 
 
-国外测试,#genre#
+海外,#genre#
 AMC,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17377
 Boomerang,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
 BBCNews,http://myott.top/stream/DT6QU63K5VX/85.m3u8
@@ -808,37 +702,21 @@ BBCWorldNews,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254246
 BBCEarth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 Bloomberg,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Bloomberg,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg,http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
 CNN,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30017
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 CINEMAX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
 FOX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254270
-FOX,http://myott.top/stream/DT6QU63K5VX/121.m3u8
 FOXSports,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69098
 SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69001
 SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99086
 KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+NHK,https://nhk2.mov3.co/hls/nhk.m3u8
 NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 UNWebTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Bloomberg,http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
-NHK,https://nhk2.mov3.co/hls/nhk.m3u8
-TBS ,https://tbs2.mov3.co/hls/tbs.m3u8
-Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-SBS,http://183.99.22.189:9981/stream/channelid/1124346476
-SBS KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-SBS KNN ,http://220.95.92.160:9981/stream/channelid/1445999617
-BBCLifestyle,P2p://ns1.hellotvvod.com:9906/77a1270e08bc44cebf20218a8615aa09
-BBCEarth,P2p://ns1.hellotvvod.com:9906/5607bc7a53bc421892cd3e58d2694365
-Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
-Discovery科学,P2p://ns1.hellotvvod.com:9906/0da5263fa35e4e558deb22b305f1aeae
-HBOHD,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
-HBOHits,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
-HBOSignature,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
-HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
-TVS,P2p://ns1.hellotvvod.com:9906/d3914a0aa1484789bdb53d0ffd313e81
-NHK,P2p://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
+
 
 测试直播_888,#genre#
 Anal,http://cdn.adultiptv.net/anal.m3u8
