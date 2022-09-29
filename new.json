@@ -7,7 +7,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/zxzj.json"
+		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/zxzj.json"
 	},  {
 		"key": "csp_xpath_qiumi",
 		"name": "JrKan（看球推荐）",
@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/jrkan.js"
+		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/jrkan.js"
 	},  {
 		"key":"17kan",
 	    "name":"⚽看球备选①",
@@ -24,7 +24,7 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/17kanqiu.json"
+		"ext":"https://agit.ai/uhearl/bh/raw/branch/master/17kanqiu.json"
 	},  {
 		"key":"csp_XYQBiu_310直播",
 		"name":"🏀看球备选②",
@@ -33,9 +33,9 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/310kanqiu.json"
+		"ext":"https://agit.ai/uhearl/bh/raw/branch/master/310kanqiu.json"
 	},  
-	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/bh/tv/-/raw/master/Json/88kanqiu.json"},{
+	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/uhearl/bh/raw/branch/master/88kanqiu.json"},{
 		"key": "快看",
 		"name": "👀快看",
 		"type": 3,
@@ -68,7 +68,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/voflix.json"
+		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/voflix.json"
 	}, {
 		"key": "csp_Auete",
 		"name": "🐼Auete",
@@ -110,7 +110,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://gitcode.net/bh/tv/-/raw/master/Json/555dianying.json"
+		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/555dianying.json"
 	},  {
 		"key": "csp_Bttoo",
 		"name": "✌两个BT",
