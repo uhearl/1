@@ -347,14 +347,13 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 黑龙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hljws
 
 
-香港频道,#genre#
+港台频道,#genre#
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
 凤凰中文,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzw
 凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
 凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
 翡翠台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
-明珠台,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
 凤凰中文,http://113.64.147.19:808/hls/32/index.m3u8
 凤凰中文,http://113.64.147.95:808/hls/32/index.m3u8
 凤凰中文,http://113.64.147.126:808/hls/32/index.m3u8
@@ -364,16 +363,10 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 凤凰香港,http://113.64.147.19:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.95:808/hls/34/index.m3u8
 凤凰香港,http://113.64.147.126:808/hls/34/index.m3u8
-凤凰电影,P2p://ns1.hellotvvod.com:9906/6230f02461f848aa90f08ba6fd8b2a8f
 翡翠台,http://113.64.147.100:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.130:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.112:808/hls/67/index.m3u8
 翡翠台,http://113.64.147.129:808/hls/67/index.m3u8
-无线财经,P2p://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
-无线新闻,P2p://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
-无线新闻,P2p://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
-HKC 18,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
-香港603,P2p://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
 有线新闻台,P2p://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
 now新闻台,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
 now直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
@@ -523,23 +516,6 @@ TVBS欢乐台,rtmp://59.124.75.145:1935/sat/tv421
 八大娱乐台,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
 八大优,P2p://ns1.hellotvvod.com:9906/4ca8194ba8504953aa46adfbb99f3d28
 
-
-龙华偶像,P2p://ns1.hellotvvod.com:9906/fb6172bdc9fc46c382a819cf091639bf
-龙华戏剧,P2p://ns1.hellotvvod.com:9906/f0d7603bf3c74bb0b7214439baa86ef1
-龙华电影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
-
-
-靖天综合台,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
-靖天资讯台,P2p://ns1.hellotvvod.com:9906/ab943bcadc7445e8a06750601dc1b037
-靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
-靖天电影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
-靖天卡通台,P2p://ns1.hellotvvod.com:9906/39eee8a27674442884d223ec6afefae1
-靖天育乐台,P2p://ns1.hellotvvod.com:9906/182d978c052c4a4f913676854e33ae5d
-靖天欢乐台,P2p://ns1.hellotvvod.com:9906/12cb22df772f4f42a1dba2f82ebd1056
-靖天戏剧台,P2p://ns1.hellotvvod.com:9906/be4aacb84df04c01ad4a6fd88db210f4
-靖天国际,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b9
-靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
-
 LSTime电影台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=lxsd
 LSTime电影台,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lxsd
 LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lxsd
@@ -548,10 +524,6 @@ LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=lxsd
 MOMO综合,rtmp://59.124.75.147/sat/tv761
 MOMO综合,rtmp://59.124.75.150/sat/tv761
 AXN,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=axn
-回旋镖动画,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hxbdh
-狼谷育乐,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lgyl
-Z频道,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=zpd
-韩国娱乐台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hgylt
 动物星球,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=dwxq
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581010.m3u8
@@ -581,9 +553,7 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 爱尔达体育3,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
 广东体育,P2p://ns1.hellotvvod.com:9906/0b3bac2e90b6403ca5ca1d2da76a55e8
 五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
-智林体育台,P2p://ns1.hellotvvod.com:9906/508d33bf8ed0474aab39b650120509a6
 深圳体育,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
-
 
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -719,29 +689,6 @@ NewTV,#genre#
 爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 
 
-咪咕轮播,#genre#
-红色轮播台,http://117.148.129.6/PLTV/88888888/224/3221232068/index.m3u8
-红色轮播台,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232068/1.m3u8
-红色轮播台,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232068/1.m3u8
-乡村振兴,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221232368/1.m3u8
-乡村振兴,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221232023/1.m3u8
-乡村振兴,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232023/1.m3u8
-科幻电影,http://117.148.129.6/PLTV/88888888/224/3221232135/index.m3u8
-科幻电影,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232135/1.m3u8
-科幻电影,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232135/1.m3u8
-影像俄罗斯,http://117.148.129.6/PLTV/88888888/224/3221232143/index.m3u8
-影像俄罗斯,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232260/1.m3u8
-影像俄罗斯,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221232143/1.m3u8
-影像俄罗斯,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221232143/1.m3u8
-TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/1.m3u8
-TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
-爱国影展,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/3221231628/1.m3u8
-纯爱文艺影院,http://117.148.129.6/PLTV/88888888/224/3221231754/index.m3u8
-纯爱文艺影院,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/1.m3u8
-盗墓方法论,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/1.m3u8
-高能烧脑时刻,http://117.148.129.6/PLTV/88888888/224/3221231504/index.m3u8
-跟着电影去旅行,http://hms2864nc1972666629.live.aikan.miguvideo.com/PLTV/88888888/224/3221232426/1.m3u8
-
 少儿频道,#genre#
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 小猪佩奇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
@@ -866,8 +813,6 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 粤语电影,http://epg.112114.xyz/douyu/6566671
 
 
-
-
 国外测试,#genre#
 AMC,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17377
 Boomerang,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
@@ -881,8 +826,6 @@ CINEMAX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
 FOX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254270
 FOX,http://myott.top/stream/DT6QU63K5VX/121.m3u8
 FOXSports,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69098
-CineMan-Marvel,http://myott.top/stream/DT6QU63K5VX/354.m3u8
-CineMan-Comedy,http://myott.top/stream/DT6QU63K5VX/356.m3u8
 SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69001
 SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99086
 KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -905,28 +848,9 @@ HBOHD,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
 HBOHits,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 HBOSignature,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
 HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
-
-DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
-France24,P2p://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
-tvN Movies HD,P2p://ns1.hellotvvod.com:9906/9b3ba26f523643acb722559371c793fa
 tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
 TVS,P2p://ns1.hellotvvod.com:9906/d3914a0aa1484789bdb53d0ffd313e81
-
-
-
 NHK,P2p://ns1.hellotvvod.com:9906/0f4208c1e14d4b36babb481f70323c02
-KIX,P2p://ns1.hellotvvod.com:9906/b126c8c43291421cb6522cc601a5b50a
-Animax,P2p://ns1.hellotvvod.com:9906/be96110bfb61424089f4799d0fd88e86
-动物星球,P2p://ns1.hellotvvod.com:9906/5963414225414a6e9eeb820a7aa7e941
-cinemaworld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-Cbeebies,P2p://ns1.hellotvvod.com:9906/6e58dc42730f4f9f8636c44bea5fd0ee
-TravelChannel,P2p://ns1.hellotvvod.com:9906/281e96812a8f4acdbba71ad79c15fe95
-
-SPOTV,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
 测试直播_888,#genre#
 
 Anal,http://cdn.adultiptv.net/anal.m3u8
