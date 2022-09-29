@@ -208,8 +208,6 @@ http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live
 http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
-http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="数字电视",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="数字电视",爱上4K
@@ -365,51 +363,4 @@ http://111.40.196.38/PLTV/88888888/224/3221225693/index.m3u8
 http://111.40.196.38/PLTV/88888888/224/3221225709/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通体育4.png" group-title="咪咕直播",百事通体育3
 http://111.40.196.38/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育1.png" group-title="咪咕直播",咪咕体育1
-http://117.148.129.6/PLTV/88888888/224/3221233017/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育2.png" group-title="咪咕直播",咪咕体育2
-http://117.148.129.6/PLTV/88888888/224/3221233041/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育3.png" group-title="咪咕直播",咪咕体育3
-http://117.148.129.6/PLTV/88888888/224/3221233067/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4.png" group-title="咪咕直播",咪咕体育4
-http://117.148.129.6/PLTV/88888888/224/3221233089/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4.png" group-title="咪咕直播",咪咕体育4
-http://117.148.129.6/PLTV/88888888/224/3221233109/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育5.png" group-title="咪咕直播",咪咕体育5
-http://117.148.129.6/PLTV/88888888/224/3221233092/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育6.png" group-title="咪咕直播",咪咕体育6
-http://117.148.129.6/PLTV/88888888/224/3221233104/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育7.png" group-title="咪咕直播",咪咕体育7
-http://117.148.129.6/PLTV/88888888/224/3221233332/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育8.png" group-title="咪咕直播",咪咕体育8
-http://117.148.129.6/PLTV/88888888/224/3221233365/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育9.png" group-title="咪咕直播",咪咕体育9
-http://117.148.129.6/PLTV/88888888/224/3221233368/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育10.png" group-title="咪咕直播",咪咕体育10
-http://117.148.129.6/PLTV/88888888/224/3221233415/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育11.png" group-title="咪咕直播",咪咕体育11
-http://117.148.129.6/PLTV/88888888/224/3221233425/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育12.png" group-title="咪咕直播",咪咕体育12
-http://117.148.129.6/PLTV/88888888/224/3221233443/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育13.png" group-title="咪咕直播",咪咕体育13
-http://117.148.129.6/PLTV/88888888/224/3221233472/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育14.png" group-title="咪咕直播",咪咕体育14
-http://117.148.129.6/PLTV/88888888/224/3221233484/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育15.png" group-title="咪咕直播",咪咕体育15
-http://117.148.129.6/PLTV/88888888/224/3221233506/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育16.png" group-title="咪咕直播",咪咕体育16
-http://117.148.129.6/PLTV/88888888/224/3221233509/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育17.png" group-title="咪咕直播",咪咕体育17
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育18.png" group-title="咪咕直播",咪咕体育18
-http://117.148.129.6/PLTV/88888888/224/3221233541/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育19.png" group-title="咪咕直播",咪咕体育19
-http://117.148.129.6/PLTV/88888888/224/3221232590/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育20.png" group-title="咪咕直播",咪咕体育20
-http://117.148.129.6/PLTV/88888888/224/3221233791/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育21.png" group-title="咪咕直播",咪咕体育21
-http://117.148.129.6/PLTV/88888888/224/3221233793/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育22.png" group-title="咪咕直播",咪咕体育22
-http://117.148.129.6/PLTV/88888888/224/3221233857/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕体育23.png" group-title="咪咕直播",咪咕体育23
-http://117.148.129.6/PLTV/88888888/224/3221233860/index.m3u8
+
