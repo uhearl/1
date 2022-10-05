@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitcode.net//bh/tv/-/raw/master/Json/Jsonjrkan.js"
+		"ext": "https://gitcode.net//bh/tv/-/raw/master/Json/jrkan.js"
 	},  {
 		"key":"17kan",
 	    "name":"⚽看球备选①",
@@ -166,7 +166,7 @@
 	}
 	
 	],
-	"spider": "https://gitcode.net/bh/tv-/raw/master/jar_999.png;md5;3E92F56BD34DBC49F26EBCE77B845255",
+	"spider": "https://gitcode.net/bh/tv/-/raw/master/jar_999.png;md5;3E92F56BD34DBC49F26EBCE77B845255",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
