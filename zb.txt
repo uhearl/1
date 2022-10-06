@@ -439,19 +439,6 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 凤凰资讯,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=fhzx
 凤凰香港,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=fhxg
 翡翠台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
-凤凰中文,http://113.64.147.19:808/hls/32/index.m3u8
-凤凰中文,http://113.64.147.95:808/hls/32/index.m3u8
-凤凰中文,http://113.64.147.126:808/hls/32/index.m3u8
-凤凰资讯,http://113.64.147.19:808/hls/33/index.m3u8
-凤凰资讯,http://113.64.147.95:808/hls/33/index.m3u8
-凤凰资讯,http://113.64.147.126:808/hls/33/index.m3u8
-凤凰香港,http://113.64.147.19:808/hls/34/index.m3u8
-凤凰香港,http://113.64.147.95:808/hls/34/index.m3u8
-凤凰香港,http://113.64.147.126:808/hls/34/index.m3u8
-翡翠台,http://113.64.147.100:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.130:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.112:808/hls/67/index.m3u8
-翡翠台,http://113.64.147.129:808/hls/67/index.m3u8
 中视,rtmp://59.124.75.147/sat/tv091
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.147:1935/sat/tv091
@@ -511,26 +498,7 @@ LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=lxsd
 LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=lxsd
 好莱坞电影台,http://iptv.weai.love/live?type=gxyl&ipdz=116.11.140,i&tvid=hlwdy
 
-台湾|手机专用,#genre#
-中视,P2p://ns1.hellotvvod.com:9906/b8f6cdb0ade748139fa3e47b63111f78
-中视,P2p://ns1.hellotvvod.com:9906/336f7c4bbca1439098b6d0e2f3f3ad0d
-中视新闻,P2p://ns1.hellotvvod.com:9906/49be27fa88b6416ab36e02d8a9087c3f
-华视,P2p://ns1.hellotvvod.com:9906/79e2eae39d1d49e695fa105bfa24a276
-华视,P2p://ns1.hellotvvod.com:9906/0c31946017884921bf3b2a86323128b1
-华视新闻,P2p://ns1.hellotvvod.com:9906/6f3829c6341e474d9c732b3efc9838f5
-民视,P2p://ns1.hellotvvod.com:9906/afb3ce5ff4b343acbd4dcc18e779f000
-民视,P2p://ns1.hellotvvod.com:9906/8db5dd51fcef4fd28aba192991efe776
-民视新闻台,P2p://ns1.hellotvvod.com:9906/246f55af09774c22add9f50cb0427021
-台视,P2p://ns1.hellotvvod.com:9906/0f373c618b594cf4a92c0c0d67b4ccff
-台视,P2p://ns1.hellotvvod.com:9906/94c89846c7284cf29026952ecef5ff09
-台视新闻台,P2p://ns1.hellotvvod.com:9906/6a8627dfdd524e9b94d3bd389740a9d2
-公视,P2p://ns1.hellotvvod.com:9906/cceee06ef3194f1e8a030440d509f48d
-公视,P2p://ns1.hellotvvod.com:9906/a25ae6ff76874a558229e225d036bcb9
-中天综合台,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
-中天新闻台,P2p://ns1.hellotvvod.com:9906/1024c12594c343b6af5dff660d002058
-纬来体育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
 体育频道,#genre#
-纬来体育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
 纬来体育台,rtmp://59.124.75.147/sat/tv721
 纬来体育台,rtmp://59.124.75.150/sat/tv721
 纬来体育台,rtmp://59.124.75.147:1935/sat/tv721
@@ -550,18 +518,11 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 魅力足球,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
-魅力足球,http://113.64.147.19:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.95:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.126:808/hls/50/index.m3u8
-魅力足球,http://113.64.147.129:808/hls/65/index.m3u8
 劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 深圳体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
 深圳体育,http://113.64.147.129:808/hls/70/index.m3u8
 广东体育,http://59.32.97.174:9901/tsfile/live/1012_1.m3u8
 广东体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
-广东体育,http://113.64.147.19:808/hls/18/index.m3u8
-广东体育,http://113.64.147.95:808/hls/18/index.m3u8
-广东体育,http://113.64.147.126:808/hls/18/index.m3u8
 五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 4K测试,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
@@ -583,16 +544,6 @@ ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
 咪咕体育3,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 咪咕体育4,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
 
-冬奥1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232984/index.m3u8
-冬奥2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233508/index.m3u8
-咪咕足球1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233506/index.m3u8
-咪咕足球2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233509/index.m3u8
-咪咕足球3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233512/index.m3u8
-咪咕足球4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233527/index.m3u8
-咪咕足球5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233541/index.m3u8
-咪咕足球6,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233857/index.m3u8
-咪咕足球7,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233860/index.m3u8
-
 数字频道,#genre#
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱上4K,http://live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -606,9 +557,9 @@ CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playt
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000180&playtoken=ABCDEFGH&auth=no
 CHC家庭电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000290&playtoken=ABCDEFGH&auth=no
 
-CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-CHC家庭电影,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC动作电影http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000291&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC高清电影http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000180&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
+CHC家庭电影http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000290&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭电影,http://live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -655,11 +606,6 @@ MAX极速汽车,http://111.20.33.70/PLTV/88888893/224/3221226583/index.m3u8
 全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000147&playtoken=ABCDEFGH&auth=no
 Max极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000153&playtoken=ABCDEFGH&auth=no
 
-全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000147&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000153&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000106&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000146&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
-魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?&programid=4200000148&playtype=live&protocol=hls&accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&playtoken=.m3u8
 
 上海纪实,http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02
 上海纪实,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231612/1.m3u8
