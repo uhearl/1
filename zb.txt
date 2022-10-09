@@ -51,6 +51,7 @@ CCTV13,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226691/1000010000000006000
 CCTV14,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil
 CCTV15,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226744/10000100000000060000000006519578_0.smil
 CCTV16,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226747/10000100000000060000000006758792_0.smil
+CCTV17,http://39.134.52.153/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226841/index.m3u8
 CCTV5+,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
 第一剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
 怀旧剧场,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
@@ -60,6 +61,15 @@ CCTV5+,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226743/1000010000000006000
 兵器科技,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
 央视台球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
 世界地理,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
+女性时尚,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
+文化精品,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
+电视指南,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226708/10000100000000060000000006385178_0.smil
+CGTN,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226756/10000100000000060000000006569861_0.smil
+CGTN记录频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226758/10000100000000060000000006569863_0.smil
+CGTN俄语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226739/10000100000000060000000006582732_0.smil
+CGTN西班牙语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226735/10000100000000060000000006582714_0.smil
+CGTN阿拉伯语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226760/10000100000000060000000006582737_0.smil
+CGTN法语频道HD,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226737/10000100000000060000000006582717_0.smil
 
 #山西茁壮源（40帧）
 CCTV1,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000120&playtoken=ABCDEFGH&auth=no
@@ -141,8 +151,6 @@ CCTV5+,http://39.135.34.144:8080/000000001000/1000000001000018504/index.m3u8?tes
 CCTV5+,http://39.135.34.144:8080/000000001000/1000000001000020505/index.m3u8?test/PLTV/=02
 
 #陕西移动（25帧）
-CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
-CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
 CCTV2,http://111.20.33.70/PLTV/88888893/224/3221226224/index.m3u8
 CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
 CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
@@ -152,7 +160,6 @@ CCTV6,http://111.20.33.70/PLTV/88888893/224/3221226393/index.m3u8
 CCTV7,http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
 CCTV8,http://111.20.33.70/PLTV/88888893/224/3221226012/index.m3u8
 CCTV8,http://111.20.33.70/PLTV/88888893/224/3221226391/index.m3u8
-CCTV10,http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8
 CCTV11,http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8
 CCTV12,http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
 CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
@@ -192,19 +199,6 @@ CCTV12,http://117.148.129.3/PLTV/88888888/224/3221231660/index.m3u8
 CCTV16,http://117.148.129.3/PLTV/88888888/224/3221233392/index.m3u8
 
 
-#网络找的
-兵器科技,http://111.20.33.70/PLTV/88888893/224/3221226975/index.m3u8
-兵器科技,http://183.196.25.171:808/hls/88/index.m3u8
-第一剧场,http://111.20.33.70/PLTV/88888893/224/3221226959/index.m3u8
-风云剧场,http://111.20.33.70/PLTV/88888893/224/3221226950/index.m3u8
-风云剧场,http://60.10.167.88:808/hls/57/index.m3u8
-风云音乐,http://111.20.33.70/PLTV/88888893/224/3221226953/index.m3u8
-风云足球,http://111.20.33.70/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,http://60.10.167.88:808/hls/55/index.m3u8
-怀旧剧场,http://111.20.33.70/PLTV/88888893/224/3221226972/index.m3u8
-怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
-世界地理,http://111.20.33.70/PLTV/88888893/224/3221226947/index.m3u8
-
 
 #天津移动中数频道（稳）
 怀旧剧场:http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
@@ -225,8 +219,44 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 
 
 卫视频道,#genre#
+#卫视首选高清节目（梅州酒店源为基准）
+安徽卫视,http://fyld.eatuo.com:9901/tsfile/live/1066_1.m3u8
+北京卫视,http://fyld.eatuo.com:9901/tsfile/live/1056_1.m3u8
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
+重庆卫视,http://fyld.eatuo.com:9901/tsfile/live/1069_1.m3u8
+东方卫视,http://fyld.eatuo.com:9901/tsfile/live/1051_1.m3u8
+东南卫视,http://fyld.eatuo.com:9901/tsfile/live/1071_1.m3u8
+甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+广东卫视,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
+广西卫视,http://fyld.eatuo.com:9901/tsfile/live/1073_1.m3u8
+贵州卫视,http://fyld.eatuo.com:9901/tsfile/live/1063_1.m3u8
+河北卫视,http://fyld.eatuo.com:9901/tsfile/live/1070_1.m3u8
+河南卫视,http://fyld.eatuo.com:9901/tsfile/live/1086_1.m3u8
+黑龙江卫视,http://fyld.eatuo.com:9901/tsfile/live/1055_1.m3u8
+湖北卫视,http://fyld.eatuo.com:9901/tsfile/live/1061_1.m3u8
+湖南卫视,http://fyld.eatuo.com:9901/tsfile/live/1048_1.m3u8
+吉林卫视,http://fyld.eatuo.com:9901/tsfile/live/1072_1.m3u8
+江苏卫视,http://fyld.eatuo.com:9901/tsfile/live/1050_1.m3u8
+江西卫视,http://fyld.eatuo.com:9901/tsfile/live/1059_1.m3u8
+辽宁卫视,http://fyld.eatuo.com:9901/tsfile/live/1062_1.m3u8
+山东卫视,http://fyld.eatuo.com:9901/tsfile/live/1058_1.m3u8
+山西卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000133&playtoken=ABCDEFGH&auth=no
+陕西卫视,http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+深圳卫视,http://fyld.eatuo.com:9901/tsfile/live/1060_1.m3u8
+四川卫视,http://fyld.eatuo.com:9901/tsfile/live/1064_1.m3u8
+天津卫视,http://fyld.eatuo.com:9901/tsfile/live/1057_1.m3u8
+浙江卫视,http://fyld.eatuo.com:9901/tsfile/live/1049_1.m3u8
+
+#标清节目
+青海卫视,http://fyld.eatuo.com:9901/tsfile/live/1091_1.m3u8
+内蒙古卫视,http://fyld.eatuo.com:9901/tsfile/live/1090_1.m3u8
+宁夏卫视,http://fyld.eatuo.com:9901/tsfile/live/1094_1.m3u8
+西藏卫视,http://fyld.eatuo.com:9901/tsfile/live/1095_1.m3u8
+云南卫视,http://fyld.eatuo.com:9901/tsfile/live/1087_1.m3u8
+
 安徽卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil
 北京卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil
+重庆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
 东方卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
 广东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
 贵州卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226746/10000100000000060000000006519582_0.smil
@@ -236,40 +266,20 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 湖南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil
 吉林卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil
 江苏卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil
+辽宁卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil
 山东卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil
 深圳卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil
 四川卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
 天津卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
 浙江卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil
-重庆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
 
-#补充源(稳)
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
-海南卫视,http://111.40.196.35/PLTV/88888888/224/3221225623/index.m3u8
-广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
-甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
-陕西卫视,http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-云南卫视,http://111.40.196.36/PLTV/88888888/224/3221225635/index.m3u8
-
-#辽宁联通IPTV源（稳）
-
-甘肃卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226457/iptv8889102159.smil
-广西卫视,rtsp://221.203.83.34:554/PLTV/460033/224/0/3221225943/000000000ace.smil
-河南卫视,rtsp://221.203.83.34:554/PLTV/460033/224/0/3221226048/3221225911.smil
-内蒙古卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226104/000000000vfq.smil
-宁夏卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226147/iptv112765.smil
-青海卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226090/000000000jdd.smil
-厦门卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil
-陕西卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
-新疆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226149/iptv147985.smil
-云南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226455/iptv127269.smil
 
 #江西茁壮稳定源（稳)
 安徽卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000132&playtoken=ABCDEFGH&auth=no
-东方卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000135&playtoken=ABCDEFGH&auth=no
 安徽卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000190&playtoken=ABCDEFGH&auth=no
 北京卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000139&playtoken=ABCDEFGH&auth=no
+重庆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000152&playtoken=ABCDEFGH&auth=no
+东方卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000135&playtoken=ABCDEFGH&auth=no
 河北卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000164&playtoken=ABCDEFGH&auth=no
 黑龙江卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000138&playtoken=ABCDEFGH&auth=no
 湖北卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000144&playtoken=ABCDEFGH&auth=no
@@ -282,16 +292,9 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 深圳卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000137&playtoken=ABCDEFGH&auth=no
 四川卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000154&playtoken=ABCDEFGH&auth=no
 天津卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000134&playtoken=ABCDEFGH&auth=no
-新疆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000287&playtoken=ABCDEFGH&auth=no
 浙江卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000142&playtoken=ABCDEFGH&auth=no
-重庆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000152&playtoken=ABCDEFGH&auth=no
 
-
-#陕西移动源
-湖南卫视,http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
-浙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
-辽宁卫视,http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
-辽宁卫视,http://111.20.33.70/PLTV/88888893/224/3221226210/index.m3u8
+#陕西西安移动源
 安徽卫视,http://111.20.33.70/PLTV/88888893/224/3221226196/index.m3u8
 安徽卫视,http://111.20.33.70/PLTV/88888893/224/3221226203/index.m3u8
 北京卫视,http://111.20.33.70/PLTV/88888893/224/3221226222/index.m3u8
@@ -299,44 +302,14 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 东方卫视,http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
 广东卫视,http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
 黑龙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
-湖北卫视,http://111.20.33.70/PLTV/88888893/224/3221226194/index.m3u8
 湖北卫视,http://111.20.33.70/PLTV/88888893/224/3221226206/index.m3u8
+湖南卫视,http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+辽宁卫视,http://111.20.33.70/PLTV/88888893/224/3221226210/index.m3u8
 山东卫视,http://111.20.33.70/PLTV/88888893/224/3221226209/index.m3u8
 深圳卫视,http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
 天津卫视,http://111.20.33.70/PLTV/88888893/224/3221226204/index.m3u8
+浙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
 
-#梅州酒店
-湖南卫视,http://fyld.eatuo.com:9901/tsfile/live/1048_1.m3u8
-浙江卫视,http://fyld.eatuo.com:9901/tsfile/live/1049_1.m3u8
-江苏卫视,http://fyld.eatuo.com:9901/tsfile/live/1050_1.m3u8
-东方卫视,http://fyld.eatuo.com:9901/tsfile/live/1051_1.m3u8
-黑龙江卫视,http://fyld.eatuo.com:9901/tsfile/live/1055_1.m3u8
-北京卫视,http://fyld.eatuo.com:9901/tsfile/live/1056_1.m3u8
-天津卫视,http://fyld.eatuo.com:9901/tsfile/live/1057_1.m3u8
-山东卫视,http://fyld.eatuo.com:9901/tsfile/live/1058_1.m3u8
-江西卫视,http://fyld.eatuo.com:9901/tsfile/live/1059_1.m3u8
-广东卫视,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
-深圳卫视,http://fyld.eatuo.com:9901/tsfile/live/1060_1.m3u8
-湖北卫视,http://fyld.eatuo.com:9901/tsfile/live/1061_1.m3u8
-辽宁卫视,http://fyld.eatuo.com:9901/tsfile/live/1062_1.m3u8
-贵州卫视,http://fyld.eatuo.com:9901/tsfile/live/1063_1.m3u8
-四川卫视,http://fyld.eatuo.com:9901/tsfile/live/1064_1.m3u8
-安徽卫视,http://fyld.eatuo.com:9901/tsfile/live/1066_1.m3u8
-重庆卫视,http://fyld.eatuo.com:9901/tsfile/live/1069_1.m3u8
-河北卫视,http://fyld.eatuo.com:9901/tsfile/live/1070_1.m3u8
-东南卫视,http://fyld.eatuo.com:9901/tsfile/live/1071_1.m3u8
-吉林卫视,http://fyld.eatuo.com:9901/tsfile/live/1072_1.m3u8
-广西卫视,http://fyld.eatuo.com:9901/tsfile/live/1073_1.m3u8
-河南卫视,http://fyld.eatuo.com:9901/tsfile/live/1086_1.m3u8
-云南卫视,http://fyld.eatuo.com:9901/tsfile/live/1087_1.m3u8
-陕西卫视,http://fyld.eatuo.com:9901/tsfile/live/1088_1.m3u8
-山西卫视,http://fyld.eatuo.com:9901/tsfile/live/1089_1.m3u8
-内蒙古卫视,http://fyld.eatuo.com:9901/tsfile/live/1090_1.m3u8
-青海卫视,http://fyld.eatuo.com:9901/tsfile/live/1091_1.m3u8
-宁夏卫视,http://fyld.eatuo.com:9901/tsfile/live/1094_1.m3u8
-西藏卫视,http://fyld.eatuo.com:9901/tsfile/live/1095_1.m3u8
-甘肃卫视,http://fyld.eatuo.com:9901/tsfile/live/1097_1.m3u8
-兵团卫视,http://fyld.eatuo.com:9901/tsfile/live/1098_1.m3u8
 
 #广西南宁移动
 安徽卫视,http://39.135.34.144:8080/000000001000/1000000001000020780/index.m3u8?test/PLTV/=02
@@ -386,28 +359,26 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 
 
 #广东揭阳酒店源
-北京卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=bjws
-东方卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=dfws
-广东卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gdws
-深圳卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=szws
-山东卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=sdws
-江苏卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jsws
-浙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=zjws
 东南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dnws
 江西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jxws
-安徽卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=ahws
-湖北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hubws
-湖南卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hunws
 广西卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=gxws
-贵州卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gzws
-四川卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=scws
-重庆卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=cqws
 甘肃卫视,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=gsws
 河北卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hbws
-天津卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=tjws
-辽宁卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=lnws
-吉林卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=jlws
-黑龙江卫视,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=hljws
+
+#补充源(稳)
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
+广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+陕西卫视,http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
+
+#辽宁联通IPTV源（垃圾画质）
+内蒙古卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226104/000000000vfq.smil
+宁夏卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226147/iptv112765.smil
+青海卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226090/000000000jdd.smil
+厦门卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil
+新疆卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226149/iptv147985.smil
+云南卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226455/iptv127269.smil
 
 
 港台频道,#genre#
@@ -480,7 +451,6 @@ LSTime电影台,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=lxsd
 CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 深圳体育,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
 深圳体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
-深圳体育,http://113.64.147.129:808/hls/70/index.m3u8
 广东体育,http://59.32.97.174:9901/tsfile/live/1012_1.m3u8
 广东体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=gdty
 纬来体育台,rtmp://59.124.75.147/sat/tv721
@@ -497,7 +467,6 @@ ELEVEN体育二台,rtmp://59.124.75.147/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.147:1935/sat/tv741
 ELEVEN体育二台,rtmp://59.124.75.150:1935/sat/tv741
-
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=mlzq
@@ -604,16 +573,13 @@ WTT,http://117.148.129.3/PLTV/88888888/224/3221234024/index.m3u8
 
 数字频道,#genre#
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-北京纪实,http://117.148.129.3/PLTV/88888888/224/3221233356/index.m3u8
+BTV科教,http://117.148.129.3/PLTV/88888888/224/3221233356/index.m3u8
 东方影视,http://117.148.129.3/PLTV/88888888/224/3221231639/index.m3u8
 咪咕Y+,http://117.148.129.3/PLTV/88888888/224/3221230226/index.m3u8
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-北京纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+BTV科教,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
 BTV科教,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226616/10000100000000060000000000599915_0.smil
 金鹰纪实,rtsp://221.203.83.35:554/PLTV/88888888/224/3221226557/10000100000000060000000000599916_0.smil
-咪咕剧场1,http://117.148.129.3/PLTV/88888888/224/3221232023/index.m3u8
-咪咕剧场2,http://117.148.129.3/PLTV/88888888/224/3221232135/index.m3u8
-咪咕剧场3,http://117.148.129.3/PLTV/88888888/224/3221232143/index.m3u8
 CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000291&playtoken=ABCDEFGH&auth=no
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000180&playtoken=ABCDEFGH&auth=no
 CHC家庭电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000290&playtoken=ABCDEFGH&auth=no
@@ -661,10 +627,6 @@ Max极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playt
 
 
 上海纪实,http://39.135.34.144:8080/000000001000/1000000001000016545/index.m3u8?test/PLTV/=02
-上海纪实,http://113.64.147.19:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.95:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.144:808/hls/56/index.m3u8
-上海纪实,http://113.64.147.126:808/hls/56/index.m3u8
 
 
 NewTV,#genre#
@@ -731,34 +693,19 @@ NewTV,#genre#
 4k影院,http://epg.112114.xyz/douyu/9249162
 大秦帝国,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
 好先生,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
-炊事班的故事,http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
-民兵葛二蛋,http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
 三国演义,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
 庆余年,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
 芈月传,http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
-医馆笑传,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
 神探狄仁杰,http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
 活佛济公,http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
 今晚80后脱口秀,http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
 笑傲江湖综艺,http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-动画相声,http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-家有儿女,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
-漫威宇宙电影,http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-冰与火之歌,http://maomao.kandiantv.cn/douyu1.php?id=8945323
-鬼吹灯剧场1,http://maomao.kandiantv.cn/douyu1.php?id=9292503
-鬼吹灯剧场2,http://maomao.kandiantv.cn/douyu1.php?id=7701735
-战争剧场,http://maomao.kandiantv.cn/douyu1.php?id=4396972
-哈利波特,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+
+
 #无大幅水印
-喜剧经典,http://maomao.kandiantv.cn/douyu1.php?id=9650887
-漫威影片,http://maomao.kandiantv.cn/douyu1.php?id=6140589
 变种人电影,http://epg.112114.xyz/douyu/9651304
-贝爷影厅2,http://maomao.kandiantv.cn/douyu1.php?id=36337
-港式恐怖,http://maomao.kandiantv.cn/douyu1.php?id=3637726
-功夫港片,http://maomao.kandiantv.cn/douyu1.php?id=3637765
 港片经典,http://epg.112114.xyz/douyu/413573
-译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
@@ -768,32 +715,10 @@ NewTV,#genre#
 喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-篮球纪录片,http://maomao.kandiantv.cn/douyu1.php?id=8434598
 #有水印遮挡
-小宇高帧,http://maomao.kandiantv.cn/douyu1.php?id=323876
 小宇高帧,http://epg.112114.xyz/douyu/323876
-高帧影片,http://maomao.kandiantv.cn/douyu1.php?id=6763930
-科幻系列,http://maomao.kandiantv.cn/douyu1.php?id=8107217
-贝爷影院,http://maomao.kandiantv.cn/douyu1.php?id=252802
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 国语影院,http://epg.112114.xyz/douyu/8985415
-高分影视,http://maomao.kandiantv.cn/douyu1.php?id=1735337
-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332
-粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=6566671
-神乐影院,http://maomao.kandiantv.cn/douyu1.php?id=85894
-贝贝影院,http://maomao.kandiantv.cn/douyu1.php?id=431460
-蚂蚱影院,http://maomao.kandiantv.cn/douyu1.php?id=6079455
-恐怖丧尸鬼片,http://maomao.kandiantv.cn/douyu1.php?id=263824
-荒野建造者,http://maomao.kandiantv.cn/douyu1.php?id=9611578
-可乐影院,http://maomao.kandiantv.cn/douyu1.php?id=20415
-冰冰经典电影,http://maomao.kandiantv.cn/douyu1.php?id=74374
-星星影院,http://maomao.kandiantv.cn/douyu1.php?id=315131
-华语动作电影,http://maomao.kandiantv.cn/douyu1.php?id=1504768
-喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=9292492
-平安夜快乐,http://maomao.kandiantv.cn/douyu1.php?id=6863367
-热血动漫,http://maomao.kandiantv.cn/douyu1.php?id=206858
-邵氏影院,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4246519
 神乐影片,http://epg.112114.xyz/douyu/122402
 神乐影片,http://epg.112114.xyz/douyu/85894
 喜剧经典,http://epg.112114.xyz/douyu/9650887
@@ -812,8 +737,6 @@ NewTV,#genre#
 
 
 海外,#genre#
-AMC,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/17377
-Boomerang,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
 BBCNews,http://myott.top/stream/DT6QU63K5VX/85.m3u8
 BBCWorldNews,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254246
 BBCEarth,https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
@@ -821,9 +744,7 @@ Bloomberg,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.
 Bloomberg,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg,http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
-CNN,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30017
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-CINEMAX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
 FOX,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254270
 FOXSports,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69098
 SportsTV NBA,http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69001
