@@ -368,7 +368,7 @@ http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1,tvg-id="深圳体育" tvg-name="深圳体育" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="体育",深圳体育
 http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
-#EXTINF:-1 tvg-id="1988" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="数字电视",北京体育休闲
+#EXTINF:-1 tvg-id="1988" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="体育",北京体育休闲
 http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
