@@ -281,7 +281,6 @@ CCTV15,http://111.13.42.234/PLTV/88888888/224/3221226460/1.m3u8
 
 #江西茁壮源
 安徽卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000132&playtoken=ABCDEFGH&auth=no
-安徽卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000190&playtoken=ABCDEFGH&auth=no
 北京卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000139&playtoken=ABCDEFGH&auth=no
 重庆卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000152&playtoken=ABCDEFGH&auth=no
 东方卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000135&playtoken=ABCDEFGH&auth=no
