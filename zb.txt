@@ -281,23 +281,17 @@ CCTV5+,http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
 天津卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
 浙江卫视,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil
 
-//哈尔滨源
-天津卫视,http://111.40.196.38/PLTV/88888888/224/3221225556/index.m3u8
-黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8
-黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8
 
-//地方官网
+
 吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
-//北京移动源
 北京卫视,http://111.13.42.234/PLTV/88888888/224/3221226436/1.m3u8
 东方卫视,http://111.13.42.234/PLTV/88888888/224/3221226898/1.m3u8
 东南卫视,http://111.13.42.234/PLTV/88888888/224/3221226406/1.m3u8
 贵州卫视,http://111.13.42.234/PLTV/88888888/224/3221226497/1.m3u8
 山东卫视,http://111.13.42.234/PLTV/88888888/224/3221226501/1.m3u8
-
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 
 港台频道,#genre#
@@ -460,7 +454,7 @@ BTV影视,http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8
 超清体验,#genre#
 爱上4K,http://219.142.151.179:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 4K超清,http://219.142.151.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
 
 数字频道,#genre#
@@ -471,7 +465,6 @@ CHC动作电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playt
 CHC高清电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000180&playtoken=ABCDEFGH&auth=no
 CHC家庭电影,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000290&playtoken=ABCDEFGH&auth=no
 
-//陕西源
 CHC高清电影,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭电影,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
@@ -484,7 +477,7 @@ MAX极速汽车,http://111.20.33.70/PLTV/88888893/224/3221226574/index.m3u8
 都市剧场,http://111.20.33.70/PLTV/88888893/224/3221226581/index.m3u8
 游戏风云,http://111.20.33.70/PLTV/88888893/224/3221226803/index.m3u8
 
-//南京移动源
+
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
@@ -496,8 +489,6 @@ MAX极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 
-
-//江西茁壮源
 劲爆体育,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000146&playtoken=ABCDEFGH&auth=no
 魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000148&playtoken=ABCDEFGH&auth=no
 全纪实,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=G53F3950V21307D1T74A05E7BJ740C03ABM79008A21I1CD9C8B7K98BDA6&programid=4200000147&playtoken=ABCDEFGH&auth=no
@@ -565,7 +556,6 @@ NewTV,#genre#
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 
 
-//无大幅水印
 变种人电影,http://epg.112114.xyz/douyu/9651304
 港片经典,http://epg.112114.xyz/douyu/413573
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
