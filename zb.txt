@@ -381,6 +381,7 @@ CCTV5+,http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
 东森电影台,http://iptv.weai.love/live?type=gxyl&ipdz=171.110.62,i&tvid=dsdy
 东森洋片台,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=dsyp
 东森洋片台,http://iptv.weai.love/live?type=gdjy&ipdz=120.84.96,i&tvid=dsyp
+中天综合,http://206.221.176.47:64032
 TVBS新闻台,rtmp://59.124.75.147/sat/tv551
 TVBS新闻台,rtmp://59.124.75.150/sat/tv551
 TVBS新闻台,rtmp://59.124.75.147:1935/sat/tv551
