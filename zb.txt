@@ -19,6 +19,7 @@ CCTV16,http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
 CCTV17,http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
 CCTV5+,http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 CGTN,http://222.217.230.46:8181/tsfile/live/1082_1.m3u8
+CGTN,http://220.182.45.198:20088/tsfile/live/1010_1.m3u8
 CGTNDocumentary,http://222.217.230.46:8181/tsfile/live/1083_1.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 女性时尚,http://36.35.223.230:40446/tsfile/live/1001_1.m3u8
@@ -500,6 +501,7 @@ CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 深圳体育,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=sztyjk
 深圳体育,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=sztyjk
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/1001_1.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 纬来体育台,rtmp://59.124.75.147/sat/tv721
 纬来体育台,rtmp://59.124.75.150/sat/tv721
@@ -592,12 +594,14 @@ MIGU3,http://111.13.42.234/PLTV/88888888/224/3221226896/1.m3u8
 童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 小品,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
+嘉佳卡通,http://220.182.45.198:20088/tsfile/live/1005_1.m3u8
+金鹰卡通,http://220.182.45.198:20088/tsfile/live/1007_1.m3u8
 嘉佳卡通,http://183.27.249.86:9901/tsfile/live/1005_1.m3u8
 哈哈炫动,http://112.64.50.254:85/tsfile/live/1006_1.m3u8
 哈哈炫动,http://b1batman.qicp.vip:8055/udp/239.45.1.55:5140
 央视少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
 卡酷少儿,http://124.126.5.153:85/tsfile/live/1026_1.m3u8
+卡酷少儿,http://220.182.45.198:20088/tsfile/live/1006_1.m3u8
 卡酷少儿,http://b1batman.qicp.vip:8055/udp/239.45.0.8:5140
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
