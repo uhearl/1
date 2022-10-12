@@ -244,6 +244,7 @@ CCTV5+,http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
 北京卫视,http://fyld.eatuo.com:9901/tsfile/live/1056_1.m3u8
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
 重庆卫视,http://fyld.eatuo.com:9901/tsfile/live/1069_1.m3u8
+大湾区卫视,http://183.27.249.86:9901/tsfile/live/1013_1.m3u8
 东南卫视,http://fyld.eatuo.com:9901/tsfile/live/1071_1.m3u8
 甘肃卫视,http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
 广东卫视,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
@@ -592,7 +593,7 @@ MIGU3,http://111.13.42.234/PLTV/88888888/224/3221226896/1.m3u8
 怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 小品,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
-金鹰卡通,P2p://ns1.hellotvvod.com:9906/4ced8c905cc9466a91ed7585d8dcadfc
+嘉佳卡通,http://183.27.249.86:9901/tsfile/live/1005_1.m3u8
 哈哈炫动,http://112.64.50.254:85/tsfile/live/1006_1.m3u8
 哈哈炫动,http://b1batman.qicp.vip:8055/udp/239.45.1.55:5140
 央视少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
@@ -685,6 +686,7 @@ MAX极速汽车,http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playt
 4K爱上,http://111.20.33.70/PLTV/88888893/224/3221226352/index.m3u8
 4K苏州,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K欢笑剧场,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
+4K广东综艺,http://183.27.249.86:9901/tsfile/live/1004_1.m3u8
 北京纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
 金鹰纪实,http://111.20.33.70/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://b1batman.qicp.vip:8055/udp/239.45.1.45:5140
