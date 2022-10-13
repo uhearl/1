@@ -7,7 +7,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/zxzj.json"
+		"ext": "https://raw.iqiq.io/uhearl/1/master/Json/zxzj.json"
 	},  {
 		"key": "csp_xpath_qiumi",
 		"name": "JrKan（看球推荐）",
@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/jrkan.js"
+		"ext": "https://raw.iqiq.io/uhearl/1/master/Json/jrkan.js"
 	},  {
 		"key":"17kan",
 	    "name":"⚽看球备选①",
@@ -24,7 +24,7 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/17kanqiu.json"
+		"ext":"https://raw.iqiq.io/uhearl/1/master/Json/17kanqiu.json"
 	},  {
 		"key":"csp_XYQBiu_310直播",
 		"name":"🏀看球备选②",
@@ -33,7 +33,7 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/310kanqiu.json"
+		"ext":"https://raw.iqiq.io/uhearl/1/master/Json/310kanqiu.json"
 	},  
 	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/88kanqiu.json"},{
 		"key": "快看",
@@ -68,7 +68,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/voflix.json"
+		"ext": "https://raw.iqiq.io/uhearl/1/master/Json/voflix.json"
 	}, {
 		"key": "csp_Auete",
 		"name": "🐼Auete",
@@ -181,7 +181,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/Alist.json"
+      "ext": "https://raw.iqiq.io/uhearl/1/master/Json/Alist.json"
     },
     {
       "key": "csp_bendi",
@@ -212,7 +212,7 @@
       "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E7%A3%81%E5%8A%9B.json"
     }
 		 ],
-	"spider":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/999.jar;md5;7151e9617fa11e13823a8dca88eef2f0",
+	"spider":"https://raw.iqiq.io/uhearl/1/master/999.jar;md5;7151e9617fa11e13823a8dca88eef2f0",
 	"wallpaper":"https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
