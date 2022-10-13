@@ -7,7 +7,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/zxzj.json"
+		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/zxzj.json"
 	},  {
 		"key": "csp_xpath_qiumi",
 		"name": "JrKan（看球推荐）",
@@ -16,7 +16,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/jrkan.js"
+		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/jrkan.js"
 	},  {
 		"key":"17kan",
 	    "name":"⚽看球备选①",
@@ -24,7 +24,7 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://agit.ai/uhearl/bh/raw/branch/master/17kanqiu.json"
+		"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/17kanqiu.json"
 	},  {
 		"key":"csp_XYQBiu_310直播",
 		"name":"🏀看球备选②",
@@ -33,9 +33,9 @@
 		"searchable":0,
 		"quickSearch":0,
 		"filterable":0,
-		"ext":"https://agit.ai/uhearl/bh/raw/branch/master/310kanqiu.json"
+		"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/310kanqiu.json"
 	},  
-	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/uhearl/bh/raw/branch/master/88kanqiu.json"},{
+	{"key":"csp_xpath_88kanqiu","name":"🏀看球备选③","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/88kanqiu.json"},{
 		"key": "快看",
 		"name": "👀快看",
 		"type": 3,
@@ -68,7 +68,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/voflix.json"
+		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/voflix.json"
 	}, {
 		"key": "csp_Auete",
 		"name": "🐼Auete",
@@ -110,7 +110,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/uhearl/bh/raw/branch/master/555dianying.json"
+		"ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/555dianying.json"
 	},  {
 		"key": "csp_Bttoo",
 		"name": "✌两个BT",
@@ -121,7 +121,6 @@
 		"filterable": 1
 	},
 {"key": "厂长影视","name": "️🕵厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"293视频","name":"💋293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/leevi/apps/raw/branch/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "神马影院","name": "🦓神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -174,14 +173,52 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-	}],
-	"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1007.jpg;md5;7151e9617fa11e13823a8dca88eef2f0",
+	},{
+      "key": "csp_Alist",
+      "name": "🗂Alist合集",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/Json/Alist.json"
+    },
+    {
+      "key": "csp_bendi",
+      "name": "📂本地视频",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 1
+    }, {
+      "key": "push_agent",
+      "name": "📨推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+    },  {
+      "key": "bdys",
+      "name": "🧲哔嘀磁力",
+      "type": 3,
+      "api": "csp_XPbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E7%A3%81%E5%8A%9B.json"
+    },
+		 ],
+	"spider":"https://jsd.cdn.zzko.cn/gh/uhearl/1@master/999.jar;md5;7151e9617fa11e13823a8dca88eef2f0",
 	"wallpaper":"https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2FnaXQuYWkvdWhlYXJsL2JoL3Jhdy9icmFuY2gvbWFzdGVyL3piLnR4dA=="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvdWhlYXJsLzFAbWFzdGVyL3piLnR4dA=="]
 		}]
 	}],
 
