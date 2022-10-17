@@ -747,7 +747,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://gitcode.net/bh/tv/-/raw/master/zb.txt"
+				"proxy://do=live&type=txt&ext=https://raw.iqiq.io/uhearl/1/master/zb.txt"
 			]
 		}]
 	}],
