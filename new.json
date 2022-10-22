@@ -7,7 +7,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/zxzj.json"
+			"ext": "./Json/zxzj.json"
 		},
 		{
 			"key": "csp_xpath_qiumi",
@@ -17,7 +17,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/jrkan.js"
+			"ext": "./Json/jrkan.js"
 		},
 		{
 			"key": "17kan",
@@ -27,7 +27,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/17kanqiu.json"
+			"ext": "./Json/17kanqiu.json"
 		},
 		{
 			"key": "csp_XYQBiu_310直播",
@@ -37,7 +37,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/310kanqiu.json"
+			"ext": "./Json/310kanqiu.json"
 		},
 		{
 			"key": "csp_xBPQ_zf",
@@ -47,7 +47,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/zfty.json"
+			"ext": "./Json/zfty.json"
 		},
 		{
 			"key": "快看",
@@ -75,7 +75,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/voflix.json"
+			"ext": "./Json/voflix.json"
 		},
 		{
 			"key": "csp_Auete",
@@ -377,7 +377,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/uhearl/1/master/Json/Alist.json"
+			"ext": "./Json/Alist.json"
 		},
 		{
 			"key": "csp_bendi",
@@ -747,7 +747,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=https://raw.iqiq.io/uhearl/1/master/zb.txt"
+				"proxy://do=live&type=txt&ext=./zb.txt"
 			]
 		}]
 	}],
