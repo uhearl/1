@@ -747,7 +747,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"proxy://do=live&type=txt&ext=./zb.txt"
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3VoZWFybC9iaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="
 			]
 		}]
 	}],
