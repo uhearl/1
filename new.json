@@ -7,7 +7,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./Json/zxzj.json"
+			"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
 		},
 		{
 			"key": "csp_xpath_qiumi",
@@ -17,7 +17,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./Json/jrkan.js"
+			"ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
 		},
 		{
 			"key": "17kan",
