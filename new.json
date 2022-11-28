@@ -740,7 +740,7 @@
 			"filterable": 0
 		}
 	],
-	"spider": ".999.jar;md5;7151e9617fa11e13823a8dca88eef2f0",
+	"spider": "https://jsd.cdn.zzko.cn/gh/uhearl/1@master/999.jar;md5;7151e9617fa11e13823a8dca88eef2f0",
 	"wallpaper": "https://tool.weetai.cn/api",
 	"lives": [{
 		"group": "redirect",
